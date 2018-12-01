@@ -1,0 +1,951 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2511", LRT HD
+udp://@239.255.12.6:1234
+#EXTINF:0 type="stream" channelId="949", LNK HD
+udp://@239.255.12.25:1234
+#EXTINF:0 type="stream" channelId="2329", TV3 HD
+udp://@239.255.12.13:1234
+#EXTINF:0 type="stream" channelId="948", BTV HD
+udp://@239.255.12.26:1234
+#EXTINF:0 type="stream" channelId="945", Lietuvos rytas HD
+udp://@239.255.12.8:1234
+#EXTINF:0 type="stream" channelId="952", TV6 HD LT
+udp://@239.255.12.16:1234
+#EXTINF:0 type="stream" channelId="-1", Info TV HD
+udp://@239.255.12.28:1234
+#EXTINF:0 type="stream" channelId="950", TV1 HD
+udp://@239.255.12.27:1234
+#EXTINF:0 type="stream" channelId="688", Platinum
+udp://@239.255.12.4:1234
+#EXTINF:0 type="stream" channelId="605", TV1000 Premium HD
+udp://@239.255.12.72:1234
+#EXTINF:0 type="stream" channelId="-1", TVPlay Sports+
+udp://@239.255.12.74:1234
+#EXTINF:0 type="stream" channelId="125", Первый канал HD
+udp://@225.2.225.12:1234
+#EXTINF:0 type="stream" channelId="203", Россия 1 HD
+udp://@225.2.225.13:1234
+#EXTINF:0 type="stream" channelId="498", HTB HD
+udp://@225.2.225.36:1234
+#EXTINF:0 type="stream" channelId="3630", THT HD
+udp://@225.2.225.42:1234
+#EXTINF:0 type="stream" channelId="1727", МИР HD
+udp://@225.2.225.26:1234
+#EXTINF:0 type="stream" channelId="-1", Filmzone+ HD
+udp://@233.136.41.161:1234
+#EXTINF:0 type="stream" channelId="605", VIP Premiere HD
+udp://@225.2.225.32:1234
+#EXTINF:0 type="stream" channelId="606", VIP Megahit HD
+udp://@225.2.225.31:1234
+#EXTINF:0 type="stream" channelId="607", VIP Comedy HD
+udp://@225.2.225.30:1234
+#EXTINF:0 type="stream" channelId="410", КИНОПРЕМЬЕРА HD
+udp://@225.2.225.1:1234
+#EXTINF:0 type="stream" channelId="343", MGM HD
+udp://@225.2.225.11:1234
+#EXTINF:0 type="stream" channelId="2657", Дом Кино Премиум HD
+udp://@225.2.225.40:1234
+#EXTINF:0 type="stream" channelId="208", FOX HD
+udp://@225.2.225.29:1234
+#EXTINF:0 type="stream" channelId="915", Amedia Premium HD
+udp://@225.2.225.134:1234
+#EXTINF:0 type="stream" channelId="2802", Bollywood HD
+udp://@225.2.225.138:1234
+#EXTINF:0 type="stream" channelId="3555", Sony Channel Lithuania HD
+udp://@239.255.12.9:1234
+#EXTINF:0 type="stream" channelId="319", Sony Turbo Lithuania HD
+udp://@239.255.12.5:1234
+#EXTINF:0 type="stream" channelId="241", Discovery Showcase HD
+udp://@233.136.41.54:1234
+#EXTINF:0 type="stream" channelId="341", Discovery Channel HD
+udp://@225.2.225.5:1234
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+udp://@225.2.225.37:1234
+#EXTINF:0 type="stream" channelId="1040", TLC HD
+udp://@225.2.225.244:1234
+#EXTINF:0 type="stream" channelId="1508", Discovery Science HD
+udp://@233.136.41.157:1234
+#EXTINF:0 type="stream" channelId="60", DTX HD
+udp://@233.136.41.184:1234
+#EXTINF:0 type="stream" channelId="1745", ID Xtra HD
+udp://@233.136.41.155:1234
+#EXTINF:0 type="stream" channelId="207", National Geographic HD
+udp://@225.2.225.133:1234
+#EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
+udp://@225.2.225.8:1234
+#EXTINF:0 type="stream" channelId="234", HD Life
+udp://@225.2.225.3:1234
+#EXTINF:0 type="stream" channelId="1494", RTG HD
+udp://@225.2.225.9:1234
+#EXTINF:0 type="stream" channelId="1456", History HD
+udp://@225.2.225.135:1234
+#EXTINF:0 type="stream" channelId="235", Travel Channel HD
+udp://@225.2.225.137:1234
+#EXTINF:0 type="stream" channelId="588", Viasat Nature/History HD
+udp://@225.2.225.33:1234
+#EXTINF:0 type="stream" channelId="130", Viasat History HD
+udp://@233.136.41.140:1234
+#EXTINF:0 type="stream" channelId="165", Viasat Explorer HD
+udp://@233.136.41.141:1234
+#EXTINF:0 type="stream" channelId="3042", Тлум HD
+udp://@225.2.225.7:1234
+#EXTINF:0 type="stream" channelId="334", Nickelodeon HD
+udp://@225.2.225.28:1234
+#EXTINF:0 type="stream" channelId="-1", Kidzone+ HD
+udp://@239.255.12.7:1234
+#EXTINF:0 type="stream" channelId="525", Duck TV HD
+udp://@233.136.41.108:1234
+#EXTINF:0 type="stream" channelId="1911", iConcerts HD
+udp://@233.136.41.59:1234
+#EXTINF:0 type="stream" channelId="2765", Deluxe Music HD
+udp://@233.136.41.96:1234
+#EXTINF:0 type="stream" channelId="44", MCM TOP HD
+udp://@233.136.41.159:1234
+#EXTINF:0 type="stream" channelId="3164", BRIDGE HD
+udp://@225.2.225.41:1234
+#EXTINF:0 type="stream" channelId="1476", 1HD
+udp://@225.2.225.14:1234
+#EXTINF:0 type="stream" channelId="237", MTV Live HD
+udp://@225.2.225.25:1234
+#EXTINF:0 type="stream" channelId="282", Mezzo Live HD
+udp://@225.2.225.10:1234
+#EXTINF:0 type="stream" channelId="-1", One by HD
+udp://@239.255.14.55:1234
+#EXTINF:0 type="stream" channelId="480", Первый музыкальный Россия HD
+udp://@239.255.14.57:1234
+#EXTINF:0 type="stream" channelId="4", МАТЧ! HD
+udp://@225.2.225.39:1234
+#EXTINF:0 type="stream" channelId="569", МАТЧ! ИГРА HD
+udp://@225.2.225.2:1234
+#EXTINF:0 type="stream" channelId="85", МАТЧ! АРЕНА HD
+udp://@225.2.225.4:1234
+#EXTINF:0 type="stream" channelId="553", МАТЧ! ФУТБОЛ 1 HD
+udp://@225.2.225.27:1234
+#EXTINF:0 type="stream" channelId="554", МАТЧ! ФУТБОЛ 2 HD
+udp://@225.2.225.22:1234
+#EXTINF:0 type="stream" channelId="2831", МАТЧ! ФУТБОЛ 3 HD
+udp://@225.2.225.23:1234
+#EXTINF:0 type="stream" channelId="277", НАШ ФУТБОЛ HD
+udp://@225.2.225.24:1234
+#EXTINF:0 type="stream" channelId="226", КХЛ HD
+udp://@225.2.225.6:1234
+#EXTINF:0 type="stream" channelId="225", EUROSPORT 1 HD
+udp://@225.2.225.132:1234
+#EXTINF:0 type="stream" channelId="933", EUROSPORT 2 HD
+udp://@225.2.225.35:1234
+#EXTINF:0 type="stream" channelId="1623", Viasat Motor HD
+udp://@233.136.41.126:1234
+#EXTINF:0 type="stream" channelId="1383", Viasat Sport HD
+udp://@225.2.225.34:1234
+#EXTINF:0 type="stream" channelId="225", Sport 1 HD LT
+udp://@233.136.41.163:1234
+#EXTINF:0 type="stream" channelId="2326", Sport Baltic HD
+udp://@239.255.12.10:1234
+#EXTINF:0 type="stream" channelId="665", Setanta Sports HD
+udp://@233.136.41.162:1234
+#EXTINF:0 type="stream" channelId="1561", КОННЫЙ МИР HD
+udp://@225.2.225.38:1234
+#EXTINF:0 type="stream" channelId="1162", HOME 4K
+udp://@225.2.225.136:1234
+#EXTINF:0 type="stream" channelId="14", 2X2
+udp://@225.2.225.15:1234
+#EXTINF:0 type="stream" channelId="913", A1
+udp://@225.2.225.16:1234
+#EXTINF:0 type="stream" channelId="914", A2
+udp://@225.2.225.17:1234
+#EXTINF:0 type="stream" channelId="2501", AMC
+udp://@225.2.225.18:1234
+#EXTINF:0 type="stream" channelId="1932", AMEDIA HIT
+udp://@225.2.225.19:1234
+#EXTINF:0 type="stream" channelId="915", Amedia Premium
+udp://@225.2.225.20:1234
+#EXTINF:0 type="stream" channelId="118", BBC World News
+udp://@225.2.225.21:1234
+#EXTINF:0 type="stream" channelId="157", МАТЧ! АРЕНА
+udp://@225.2.225.43:1234
+#EXTINF:0 type="stream" channelId="81", МАТЧ! БОЕЦ
+udp://@225.2.225.44:1234
+#EXTINF:0 type="stream" channelId="158", МАТЧ! ИГРА
+udp://@225.2.225.45:1234
+#EXTINF:0 type="stream" channelId="84", МАТЧ! НАШ СПОРТ
+udp://@225.2.225.46:1234
+#EXTINF:0 type="stream" channelId="224", МАТЧ! ФУТБОЛ 1
+udp://@225.2.225.47:1234
+#EXTINF:0 type="stream" channelId="415", МАТЧ! ФУТБОЛ 2
+udp://@225.2.225.48:1234
+#EXTINF:0 type="stream" channelId="273", МАТЧ! ФУТБОЛ 3
+udp://@225.2.225.49:1234
+#EXTINF:0 type="stream" channelId="784", ОТР
+udp://@225.2.225.50:1234
+#EXTINF:0 type="stream" channelId="3647", Доктор
+udp://@225.2.225.51:1234
+#EXTINF:0 type="stream" channelId="17", Звезда
+udp://@225.2.225.52:1234
+#EXTINF:0 type="stream" channelId="19", Канал Disney
+udp://@225.2.225.53:1234
+#EXTINF:0 type="stream" channelId="136", МУЗ
+udp://@225.2.225.54:1234
+#EXTINF:0 type="stream" channelId="277", НАШ ФУТБОЛ
+udp://@225.2.225.55:1234
+#EXTINF:0 type="stream" channelId="6", НТВ
+udp://@225.2.225.56:1234
+#EXTINF:0 type="stream" channelId="212", Телеканал 360
+udp://@225.2.225.57:1234
+#EXTINF:0 type="stream" channelId="9", РБК-ТВ
+udp://@225.2.225.58:1234
+#EXTINF:0 type="stream" channelId="80", КХЛ
+udp://@225.2.225.59:1234
+#EXTINF:0 type="stream" channelId="16", ТНТ
+udp://@225.2.225.60:1234
+#EXTINF:0 type="stream" channelId="23", Ю-ТВ
+udp://@225.2.225.61:1234
+#EXTINF:0 type="stream" channelId="258", World Fashion
+udp://@225.2.225.63:1234
+#EXTINF:0 type="stream" channelId="24", THT MUSIC
+udp://@225.2.225.64:1234
+#EXTINF:0 type="stream" channelId="171", DaVinci
+udp://@225.2.225.65:1234
+#EXTINF:0 type="stream" channelId="66", TV 1000
+udp://@225.2.225.66:1234
+#EXTINF:0 type="stream" channelId="214", TV 1000 Action
+udp://@225.2.225.67:1234
+#EXTINF:0 type="stream" channelId="-1", TB 1000 Русское кино
+udp://@225.2.225.68:1234
+#EXTINF:0 type="stream" channelId="165", Viasat Explore
+udp://@225.2.225.69:1234
+#EXTINF:0 type="stream" channelId="166", Viasat History
+udp://@225.2.225.70:1234
+#EXTINF:0 type="stream" channelId="172", Viasat Nature
+udp://@225.2.225.71:1234
+#EXTINF:0 type="stream" channelId="155", Viasat Sport
+udp://@225.2.225.72:1234
+#EXTINF:0 type="stream" channelId="156", Extreme Sports
+udp://@225.2.225.73:1234
+#EXTINF:0 type="stream" channelId="221", Охота и рыбалка
+udp://@225.2.225.74:1234
+#EXTINF:0 type="stream" channelId="30", Первый образовательный
+udp://@225.2.225.75:1234
+#EXTINF:0 type="stream" channelId="249", ДОМАШНИЕ ЖИВОТНЫЕ
+udp://@225.2.225.76:1234
+#EXTINF:0 type="stream" channelId="251", ПСИХОЛОГИЯ21
+udp://@225.2.225.77:1234
+#EXTINF:0 type="stream" channelId="217", Euronews
+udp://@225.2.225.78:1234
+#EXTINF:0 type="stream" channelId="177", FOX
+udp://@225.2.225.79:1234
+#EXTINF:0 type="stream" channelId="164", Nat Geo Wild
+udp://@225.2.225.80:1234
+#EXTINF:0 type="stream" channelId="379", АРМЕНИЯ ТВ
+udp://@225.2.225.81:1234
+#EXTINF:0 type="stream" channelId="1699", Paramount Comedy
+udp://@225.2.225.82:1234
+#EXTINF:0 type="stream" channelId="3365", Viasat Golf
+udp://@225.2.225.83:1234
+#EXTINF:0 type="stream" channelId="245", Мама
+udp://@225.2.225.84:1234
+#EXTINF:0 type="stream" channelId="1719", Paramount Channel
+udp://@225.2.225.85:1234
+#EXTINF:0 type="stream" channelId="252", OCEAN-TV
+udp://@225.2.225.86:1234
+#EXTINF:0 type="stream" channelId="894", CCTV4
+udp://@225.2.225.87:1234
+#EXTINF:0 type="stream" channelId="893", CGTN
+udp://@225.2.225.88:1234
+#EXTINF:0 type="stream" channelId="331", CGTN-Русский
+udp://@225.2.225.89:1234
+#EXTINF:0 type="stream" channelId="43", Mezzo
+udp://@225.2.225.90:1234
+#EXTINF:0 type="stream" channelId="53", Моя Планета
+udp://@225.2.225.91:1234
+#EXTINF:0 type="stream" channelId="173", Наука 2.0
+udp://@225.2.225.92:1234
+#EXTINF:0 type="stream" channelId="3866", БелРос (ТРО)
+udp://@225.2.225.93:1234
+#EXTINF:0 type="stream" channelId="1455", History
+udp://@225.2.225.94:1234
+#EXTINF:0 type="stream" channelId="44", MCM Top
+udp://@225.2.225.95:1234
+#EXTINF:0 type="stream" channelId="1723", Астрахань 24
+udp://@225.2.225.96:1234
+#EXTINF:0 type="stream" channelId="353", Outdoor Channel
+udp://@225.2.225.97:1234
+#EXTINF:0 type="stream" channelId="45", RU TV
+udp://@225.2.225.98:1234
+#EXTINF:0 type="stream" channelId="54", Travel Channel
+udp://@225.2.225.99:1234
+#EXTINF:0 type="stream" channelId="-1", RT Д
+udp://@225.2.225.100:1234
+#EXTINF:0 type="stream" channelId="143", RT
+udp://@225.2.225.101:1234
+#EXTINF:0 type="stream" channelId="301", RTG TV
+udp://@225.2.225.102:1234
+#EXTINF:0 type="stream" channelId="3044", Ювелирочка
+udp://@225.2.225.103:1234
+#EXTINF:0 type="stream" channelId="536", BRIDGE TV DANCE
+udp://@225.2.225.104:1234
+#EXTINF:0 type="stream" channelId="120", CNN International
+udp://@225.2.225.105:1234
+#EXTINF:0 type="stream" channelId="77", THT4
+udp://@225.2.225.106:1234
+#EXTINF:0 type="stream" channelId="2830", Ani
+udp://@225.2.225.107:1234
+#EXTINF:0 type="stream" channelId="887", История
+udp://@225.2.225.108:1234
+#EXTINF:0 type="stream" channelId="589", МИР 24
+udp://@225.2.225.109:1234
+#EXTINF:0 type="stream" channelId="3136", Царьград
+udp://@225.2.225.110:1234
+#EXTINF:0 type="stream" channelId="597", Санкт-Петербург
+udp://@225.2.225.111:1234
+#EXTINF:0 type="stream" channelId="2802", Bollywood
+udp://@225.2.225.112:1234
+#EXTINF:0 type="stream" channelId="25", BRIDGE TV
+udp://@225.2.225.113:1234
+#EXTINF:0 type="stream" channelId="3880", Первый Вегетарианский
+udp://@225.2.225.114:1234
+#EXTINF:0 type="stream" channelId="324", CBS Reality
+udp://@225.2.225.115:1234
+#EXTINF:0 type="stream" channelId="183", Gulli Girl
+udp://@225.2.225.116:1234
+#EXTINF:0 type="stream" channelId="517", Playboy TV
+udp://@225.2.225.117:1234
+#EXTINF:0 type="stream" channelId="484", BRIDGE TV Русский Хит
+udp://@225.2.225.118:1234
+#EXTINF:0 type="stream" channelId="154", Russian extreme TV
+udp://@225.2.225.119:1234
+#EXTINF:0 type="stream" channelId="182", TiJi
+udp://@225.2.225.120:1234
+#EXTINF:0 type="stream" channelId="-1", TВ-21М
+udp://@225.2.225.121:1234
+#EXTINF:0 type="stream" channelId="79", ЕвроКино
+udp://@225.2.225.122:1234
+#EXTINF:0 type="stream" channelId="-1", Теленовелла
+udp://@225.2.225.123:1234
+#EXTINF:0 type="stream" channelId="1742", КРИК-Тв
+udp://@225.2.225.124:1234
+#EXTINF:0 type="stream" channelId="153", Москва 24
+udp://@225.2.225.125:1234
+#EXTINF:0 type="stream" channelId="3039", НАШЕ ТВ
+udp://@225.2.225.126:1234
+#EXTINF:0 type="stream" channelId="545", Первый МЕТЕО
+udp://@225.2.225.127:1234
+#EXTINF:0 type="stream" channelId="144", ПРОСВЕЩЕНИЕ
+udp://@225.2.225.128:1234
+#EXTINF:0 type="stream" channelId="189", Русский Иллюзион
+udp://@225.2.225.129:1234
+#EXTINF:0 type="stream" channelId="175", Совершенно секретно
+udp://@225.2.225.130:1234
+#EXTINF:0 type="stream" channelId="13", ТВЦ
+udp://@225.2.225.131:1234
+#EXTINF:0 type="stream" channelId="52", 365 дней ТВ
+udp://@225.2.225.139:1234
+#EXTINF:0 type="stream" channelId="55", Авто Плюс
+udp://@225.2.225.140:1234
+#EXTINF:0 type="stream" channelId="42", Европа Плюс ТВ
+udp://@225.2.225.141:1234
+#EXTINF:0 type="stream" channelId="168", ИНДИЙСКОЕ КИНО
+udp://@225.2.225.142:1234
+#EXTINF:0 type="stream" channelId="270", КИНОМИКС
+udp://@225.2.225.143:1234
+#EXTINF:0 type="stream" channelId="413", КИНОСВИДАНИЕ
+udp://@225.2.225.144:1234
+#EXTINF:0 type="stream" channelId="409", КИНОХИТ
+udp://@225.2.225.145:1234
+#EXTINF:0 type="stream" channelId="194", КИНОКОМЕДИЯ
+udp://@225.2.225.146:1234
+#EXTINF:0 type="stream" channelId="174", Кто есть кто
+udp://@225.2.225.147:1234
+#EXTINF:0 type="stream" channelId="75", Кухня ТВ
+udp://@225.2.225.148:1234
+#EXTINF:0 type="stream" channelId="150", Ля-минор ТВ
+udp://@225.2.225.149:1234
+#EXTINF:0 type="stream" channelId="447", МАТЧ! ПЛАНЕТА
+udp://@225.2.225.150:1234
+#EXTINF:0 type="stream" channelId="195", КИНОСЕРИЯ
+udp://@225.2.225.151:1234
+#EXTINF:0 type="stream" channelId="169", МУЖСКОЕ КИНО
+udp://@225.2.225.152:1234
+#EXTINF:0 type="stream" channelId="316", РОДНОЕ КИНО
+udp://@225.2.225.153:1234
+#EXTINF:0 type="stream" channelId="315", НАШЕ НОВОЕ КИНО
+udp://@225.2.225.154:1234
+#EXTINF:0 type="stream" channelId="160", Ностальгия
+udp://@225.2.225.155:1234
+#EXTINF:0 type="stream" channelId="1801", Nuart
+udp://@225.2.225.156:1234
+#EXTINF:0 type="stream" channelId="568", КИНОСЕМЬЯ
+udp://@225.2.225.157:1234
+#EXTINF:0 type="stream" channelId="276", Русская ночь
+udp://@225.2.225.158:1234
+#EXTINF:0 type="stream" channelId="209", Эгоист ТВ
+udp://@225.2.225.159:1234
+#EXTINF:0 type="stream" channelId="274", Blue Hustler
+udp://@225.2.225.160:1234
+#EXTINF:0 type="stream" channelId="285", ЖАРА
+udp://@225.2.225.161:1234
+#EXTINF:0 type="stream" channelId="2", Россия 1
+udp://@225.2.225.162:1234
+#EXTINF:0 type="stream" channelId="4", МАТЧ!
+udp://@225.2.225.163:1234
+#EXTINF:0 type="stream" channelId="7", Пятый канал
+udp://@225.2.225.164:1234
+#EXTINF:0 type="stream" channelId="11", РЕН ТВ
+udp://@225.2.225.165:1234
+#EXTINF:0 type="stream" channelId="5", Россия К
+udp://@225.2.225.166:1234
+#EXTINF:0 type="stream" channelId="10", Россия 24
+udp://@225.2.225.167:1234
+#EXTINF:0 type="stream" channelId="244", СПАС
+udp://@225.2.225.168:1234
+#EXTINF:0 type="stream" channelId="8", ТВ-3
+udp://@225.2.225.169:1234
+#EXTINF:0 type="stream" channelId="26", ПЯТНИЦА
+udp://@225.2.225.170:1234
+#EXTINF:0 type="stream" channelId="138", МИР
+udp://@225.2.225.171:1234
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+udp://@225.2.225.172:1234
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
+udp://@225.2.225.173:1234
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
+udp://@225.2.225.174:1234
+#EXTINF:0 type="stream" channelId="272", НСТ
+udp://@225.2.225.175:1234
+#EXTINF:0 type="stream" channelId="60", DTX
+udp://@225.2.225.176:1234
+#EXTINF:0 type="stream" channelId="178", Fox Life
+udp://@225.2.225.177:1234
+#EXTINF:0 type="stream" channelId="59", Investigation Discovery
+udp://@225.2.225.178:1234
+#EXTINF:0 type="stream" channelId="3294", O!
+udp://@225.2.225.179:1234
+#EXTINF:0 type="stream" channelId="1973", MTV
+udp://@225.2.225.180:1234
+#EXTINF:0 type="stream" channelId="146", MTV Dance
+udp://@225.2.225.181:1234
+#EXTINF:0 type="stream" channelId="289", MTV Hits
+udp://@225.2.225.182:1234
+#EXTINF:0 type="stream" channelId="290", MTV Rocks
+udp://@225.2.225.183:1234
+#EXTINF:0 type="stream" channelId="56", National Geographic
+udp://@225.2.225.184:1234
+#EXTINF:0 type="stream" channelId="322", Nick Jr.
+udp://@225.2.225.185:1234
+#EXTINF:0 type="stream" channelId="67", TLC
+udp://@225.2.225.186:1234
+#EXTINF:0 type="stream" channelId="149", VH1 Classic
+udp://@225.2.225.187:1234
+#EXTINF:0 type="stream" channelId="46", VH1 European
+udp://@225.2.225.188:1234
+#EXTINF:0 type="stream" channelId="646", БОБЁР
+udp://@225.2.225.189:1234
+#EXTINF:0 type="stream" channelId="176", Время: далекое и близкое
+udp://@225.2.225.190:1234
+#EXTINF:0 type="stream" channelId="68", Дом Кино
+udp://@225.2.225.191:1234
+#EXTINF:0 type="stream" channelId="321", Boomerang
+udp://@225.2.225.192:1234
+#EXTINF:0 type="stream" channelId="20", Карусель
+udp://@225.2.225.193:1234
+#EXTINF:0 type="stream" channelId="148", Музыка Первого
+udp://@225.2.225.194:1234
+#EXTINF:0 type="stream" channelId="161", ТЕЛЕКАФЕ
+udp://@225.2.225.195:1234
+#EXTINF:0 type="stream" channelId="1", Первый канал
+udp://@225.2.225.196:1234
+#EXTINF:0 type="stream" channelId="21", Домашний
+udp://@225.2.225.197:1234
+#EXTINF:0 type="stream" channelId="1778", Кубань 24 ОРБИТА
+udp://@225.2.225.198:1234
+#EXTINF:0 type="stream" channelId="-1", ТВ Губерния
+udp://@225.2.225.199:1234
+#EXTINF:0 type="stream" channelId="12", СТС
+udp://@225.2.225.200:1234
+#EXTINF:0 type="stream" channelId="1571", CTC Love
+udp://@225.2.225.201:1234
+#EXTINF:0 type="stream" channelId="135", ТДК
+udp://@225.2.225.202:1234
+#EXTINF:0 type="stream" channelId="1485", ТНВ-Планета
+udp://@225.2.225.203:1234
+#EXTINF:0 type="stream" channelId="22", Че
+udp://@225.2.225.204:1234
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+udp://@225.2.225.205:1234
+#EXTINF:0 type="stream" channelId="397", NHK WORLD TV
+udp://@225.2.225.206:1234
+#EXTINF:0 type="stream" channelId="192", Детский
+udp://@225.2.225.207:1234
+#EXTINF:0 type="stream" channelId="167", Зоопарк
+udp://@225.2.225.208:1234
+#EXTINF:0 type="stream" channelId="342", КИНО ТВ
+udp://@225.2.225.209:1234
+#EXTINF:0 type="stream" channelId="71", Комедия
+udp://@225.2.225.210:1234
+#EXTINF:0 type="stream" channelId="1244", Food Network
+udp://@225.2.225.211:1234
+#EXTINF:0 type="stream" channelId="1282", ABTO24
+udp://@225.2.225.212:1234
+#EXTINF:0 type="stream" channelId="39", Детский мир/Телеклуб
+udp://@225.2.225.213:1234
+#EXTINF:0 type="stream" channelId="82", Eurosport 1
+udp://@225.2.225.214:1234
+#EXTINF:0 type="stream" channelId="119", Bloomberg Television
+udp://@225.2.225.215:1234
+#EXTINF:0 type="stream" channelId="139", FRANCE 24
+udp://@225.2.225.216:1234
+#EXTINF:0 type="stream" channelId="191", JimJam
+udp://@225.2.225.217:1234
+#EXTINF:0 type="stream" channelId="41", Nickelodeon
+udp://@225.2.225.218:1234
+#EXTINF:0 type="stream" channelId="3555", SONY CHANNEL
+udp://@225.2.225.219:1234
+#EXTINF:0 type="stream" channelId="69", Sony Sci-Fi
+udp://@225.2.225.220:1234
+#EXTINF:0 type="stream" channelId="319", Sony Turbo
+udp://@225.2.225.221:1234
+#EXTINF:0 type="stream" channelId="3138", Продвижение
+udp://@225.2.225.222:1234
+#EXTINF:0 type="stream" channelId="325", Загородная жизнь
+udp://@225.2.225.223:1234
+#EXTINF:0 type="stream" channelId="184", Радость моя
+udp://@225.2.225.224:1234
+#EXTINF:0 type="stream" channelId="3888", ДОН 24
+udp://@225.2.225.225:1234
+#EXTINF:0 type="stream" channelId="557", Грозный
+udp://@225.2.225.226:1234
+#EXTINF:0 type="stream" channelId="312", Мир сериала
+udp://@225.2.225.227:1234
+#EXTINF:0 type="stream" channelId="803", Брянская Губерния
+udp://@225.2.225.228:1234
+#EXTINF:0 type="stream" channelId="580", Первый Ярославский
+udp://@225.2.225.229:1234
+#EXTINF:0 type="stream" channelId="314", Любимое Кино
+udp://@225.2.225.230:1234
+#EXTINF:0 type="stream" channelId="47", Шансон-ТВ
+udp://@225.2.225.231:1234
+#EXTINF:0 type="stream" channelId="6" tvg-shift="2", HTB +2
+udp://@225.2.225.232:1234
+#EXTINF:0 type="stream" channelId="16" tvg-shift="2", ТНТ +2
+udp://@225.2.225.233:1234
+#EXTINF:0 type="stream" channelId="3169", Detektiv TV
+udp://@225.2.225.234:1234
+#EXTINF:0 type="stream" channelId="3160", НТВ Сериал
+udp://@225.2.225.235:1234
+#EXTINF:0 type="stream" channelId="1827", БОКС ТВ
+udp://@225.2.225.236:1234
+#EXTINF:0 type="stream" channelId="303", Русский бестселлер
+udp://@225.2.225.237:1234
+#EXTINF:0 type="stream" channelId="198", Русский роман
+udp://@225.2.225.238:1234
+#EXTINF:0 type="stream" channelId="3556", В гостях у сказки
+udp://@225.2.225.239:1234
+#EXTINF:0 type="stream" channelId="3162", НТВ Право
+udp://@225.2.225.240:1234
+#EXTINF:0 type="stream" channelId="3161", НТВ Стиль
+udp://@225.2.225.241:1234
+#EXTINF:0 type="stream" channelId="76", ЖИВИ!
+udp://@225.2.225.242:1234
+#EXTINF:0 type="stream" channelId="1447", Spike
+udp://@225.2.225.243:1234
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+udp://@233.136.41.3:1234
+#EXTINF:0 type="stream" channelId="67", Discovery TLC
+udp://@233.136.41.2:1234
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
+udp://@233.136.41.4:1234
+#EXTINF:0 type="stream" channelId="171", DaVinci Learning
+udp://@233.136.41.5:1234
+#EXTINF:0 type="stream" channelId="321", Boomerang
+udp://@233.136.41.7:1234
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
+udp://@233.136.41.6:1234
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+udp://@233.136.41.8:1234
+#EXTINF:0 type="stream" channelId="68", Дом Кино
+udp://@233.136.41.10:1234
+#EXTINF:0 type="stream" channelId="82", Eurosport
+udp://@233.136.41.11:1234
+#EXTINF:0 type="stream" channelId="2509", LRT Televizija
+udp://@233.136.41.12:1234
+#EXTINF:0 type="stream" channelId="949", LNK
+udp://@233.136.41.13:1234
+#EXTINF:0 type="stream" channelId="2512", Liuks!
+udp://@233.136.41.14:1234
+#EXTINF:0 type="stream" channelId="945", Lietuvos rytas TV
+udp://@233.136.41.15:1234
+#EXTINF:0 type="stream" channelId="191", JimJam
+udp://@233.136.41.16:1234
+#EXTINF:0 type="stream" channelId="2508", Info TV
+udp://@233.136.41.17:1234
+#EXTINF:0 type="stream" channelId="156", Extreme Sports
+udp://@233.136.41.18:1234
+#EXTINF:0 type="stream" channelId="83", Eurosport 2
+udp://@233.136.41.19:1234
+#EXTINF:0 type="stream" channelId="-1", Balticum TV
+udp://@233.136.41.21:1234
+#EXTINF:0 type="stream" channelId="948", BTV LT
+udp://@233.136.41.20:1234
+#EXTINF:0 type="stream" channelId="405", RTVi
+udp://@233.136.41.22:1234
+#EXTINF:0 type="stream" channelId="264", RTR Planeta
+udp://@233.136.41.23:1234
+#EXTINF:0 type="stream" channelId="11", Ren TV Baltic
+udp://@233.136.41.24:1234
+#EXTINF:0 type="stream" channelId="1", Pervyj Baltijskij Kanal
+udp://@233.136.41.25:1234
+#EXTINF:0 type="stream" channelId="221", Ohota i Rybalka
+udp://@233.136.41.26:1234
+#EXTINF:0 type="stream" channelId="450", NTV Mir Lithuania
+udp://@233.136.41.27:1234
+#EXTINF:0 type="stream" channelId="56", National Geographic Channel
+udp://@233.136.41.29:1234
+#EXTINF:0 type="stream" channelId="1106", MTV Europe
+udp://@233.136.41.30:1234
+#EXTINF:0 type="stream" channelId="2506", LRT Kultura
+udp://@233.136.41.31:1234
+#EXTINF:0 type="stream" channelId="46", VH1 European
+udp://@233.136.41.32:1234
+#EXTINF:0 type="stream" channelId="166", Viasat History
+udp://@233.136.41.34:1234
+#EXTINF:0 type="stream" channelId="2326", Viasat Sport Baltic
+udp://@233.136.41.36:1234
+#EXTINF:0 type="stream" channelId="952", TV6 LT
+udp://@233.136.41.38:1234
+#EXTINF:0 type="stream" channelId="165", Viasat Explore
+udp://@233.136.41.37:1234
+#EXTINF:0 type="stream" channelId="951", TV3 LT
+udp://@233.136.41.39:1234
+#EXTINF:0 type="stream" channelId="65", TV1000 Russkoe Kino
+udp://@233.136.41.40:1234
+#EXTINF:0 type="stream" channelId="66", TV1000 East
+udp://@233.136.41.41:1234
+#EXTINF:0 type="stream" channelId="950", TV1
+udp://@233.136.41.42:1234
+#EXTINF:0 type="stream" channelId="54", Travel Channel
+udp://@233.136.41.44:1234
+#EXTINF:0 type="stream" channelId="977", SPORT1
+udp://@233.136.41.45:1234
+#EXTINF:0 type="stream" channelId="-1", Nashe Kino
+udp://@233.136.41.46:1234
+#EXTINF:0 type="stream" channelId="296", Belarus 24
+udp://@233.136.41.47:1234
+#EXTINF:0 type="stream" channelId="513", Duck TV
+udp://@233.136.41.48:1234
+#EXTINF:0 type="stream" channelId="-1", Bloomberg Europe
+udp://@233.136.41.49:1234
+#EXTINF:0 type="stream" channelId="274", Blue Hustler
+udp://@233.136.41.50:1234
+#EXTINF:0 type="stream" channelId="120", CNN International
+udp://@233.136.41.52:1234
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle
+udp://@233.136.41.53:1234
+#EXTINF:0 type="stream" channelId="-1", Euronews Russian
+udp://@233.136.41.56:1234
+#EXTINF:0 type="stream" channelId="280", Fashion TV
+udp://@233.136.41.57:1234
+#EXTINF:0 type="stream" channelId="139", France 24
+udp://@233.136.41.58:1234
+#EXTINF:0 type="stream" channelId="-1", La-Minor TV
+udp://@233.136.41.61:1234
+#EXTINF:0 type="stream" channelId="44", MCM TOP
+udp://@233.136.41.63:1234
+#EXTINF:0 type="stream" channelId="43", Mezzo
+udp://@233.136.41.64:1234
+#EXTINF:0 type="stream" channelId="965", Pro 7
+udp://@233.136.41.69:1234
+#EXTINF:0 type="stream" channelId="1000", RAI1
+udp://@233.136.41.70:1234
+#EXTINF:0 type="stream" channelId="774", RTL
+udp://@233.136.41.71:1234
+#EXTINF:0 type="stream" channelId="963", SAT 1
+udp://@233.136.41.73:1234
+#EXTINF:0 type="stream" channelId="189", Russkij illuzion
+udp://@233.136.41.72:1234
+#EXTINF:0 type="stream" channelId="3555", Sony Channel
+udp://@233.136.41.75:1234
+#EXTINF:0 type="stream" channelId="954", TVP Polonia
+udp://@233.136.41.81:1234
+#EXTINF:0 type="stream" channelId="475", TVCI
+udp://@233.136.41.83:1234
+#EXTINF:0 type="stream" channelId="140", TV5 Monde Europe
+udp://@233.136.41.82:1234
+#EXTINF:0 type="stream" channelId="2828", TVE Internacional
+udp://@233.136.41.84:1234
+#EXTINF:0 type="stream" channelId="3365", Viasat Golf
+udp://@233.136.41.85:1234
+#EXTINF:0 type="stream" channelId="986", Deluxe Music
+udp://@233.136.41.87:1234
+#EXTINF:0 type="stream" channelId="324", CBS Reality
+udp://@233.136.41.88:1234
+#EXTINF:0 type="stream" channelId="19", Disney Channel
+udp://@233.136.41.90:1234
+#EXTINF:0 type="stream" channelId="1198", Disney XD
+udp://@233.136.41.91:1234
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
+udp://@233.136.41.92:1234
+#EXTINF:0 type="stream" channelId="-1", Siauliu Televizija
+udp://@233.136.41.95:1234
+#EXTINF:0 type="stream" channelId="143", Russia Today
+udp://@233.136.41.98:1234
+#EXTINF:0 type="stream" channelId="-1", RBK TV
+udp://@233.136.41.99:1234
+#EXTINF:0 type="stream" channelId="164", National Geographic Wild
+udp://@233.136.41.101:1234
+#EXTINF:0 type="stream" channelId="2507", Balticum Auksinis
+udp://@233.136.41.105:1234
+#EXTINF:0 type="stream" channelId="1455", History Channel
+udp://@233.136.41.109:1234
+#EXTINF:0 type="stream" channelId="178", Fox Life
+udp://@233.136.41.110:1234
+#EXTINF:0 type="stream" channelId="177", FOX
+udp://@233.136.41.111:1234
+#EXTINF:0 type="stream" channelId="-1", Sky News International
+udp://@233.136.41.112:1234
+#EXTINF:0 type="stream" channelId="2715", MTV Music 24
+udp://@233.136.41.114:1234
+#EXTINF:0 type="stream" channelId="-1", Pingviniukas
+udp://@233.136.41.115:1234
+#EXTINF:0 type="stream" channelId="1076", TV8
+udp://@233.136.41.116:1234
+#EXTINF:0 type="stream" channelId="-1", Seimas tiesiogiai
+udp://@233.136.41.118:1234
+#EXTINF:0 type="stream" channelId="2838", TV1000 Premium
+udp://@233.136.41.119:1234
+#EXTINF:0 type="stream" channelId="214", TV1000 Action
+udp://@233.136.41.120:1234
+#EXTINF:0 type="stream" channelId="12", СТС
+udp://@233.136.41.121:1234
+#EXTINF:0 type="stream" channelId="1623", Viasat Motor
+udp://@233.136.41.125:1234
+#EXTINF:0 type="stream" channelId="10", Rossiya 24
+udp://@233.136.41.128:1234
+#EXTINF:0 type="stream" channelId="278", Fashion One
+udp://@233.136.41.131:1234
+#EXTINF:0 type="stream" channelId="172", Viasat Nature
+udp://@233.136.41.133:1234
+#EXTINF:0 type="stream" channelId="38", Дождь
+udp://@233.136.41.134:1234
+#EXTINF:0 type="stream" channelId="1099", FineLiving
+udp://@233.136.41.135:1234
+#EXTINF:0 type="stream" channelId="51", English Club TV
+udp://@233.136.41.137:1234
+#EXTINF:0 type="stream" channelId="190", illuzion +
+udp://@233.136.41.138:1234
+#EXTINF:0 type="stream" channelId="-1", Zhivi!
+udp://@233.136.41.139:1234
+#EXTINF:0 type="stream" channelId="289", MTV Hits
+udp://@233.136.41.142:1234
+#EXTINF:0 type="stream" channelId="-1", Kidzone
+udp://@233.136.41.145:1234
+#EXTINF:0 type="stream" channelId="-1", THT International
+udp://@233.136.41.146:1234
+#EXTINF:0 type="stream" channelId="2510", LRT Lituanica
+udp://@233.136.41.147:1234
+#EXTINF:0 type="stream" channelId="-1", GNTV
+udp://@233.136.41.148:1234
+#EXTINF:0 type="stream" channelId="329", C Music TV
+udp://@233.136.41.150:1234
+#EXTINF:0 type="stream" channelId="194", Kinokomedia
+udp://@233.136.41.151:1234
+#EXTINF:0 type="stream" channelId="68", Dom Kino
+udp://@233.136.41.152:1234
+#EXTINF:0 type="stream" channelId="193", TV XXI
+udp://@233.136.41.164:1234
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
+udp://@233.136.41.166:1234
+#EXTINF:0 type="stream" channelId="-1", TV Zvaigzde
+udp://@233.136.41.165:1234
+#EXTINF:0 type="stream" channelId="67", Discovery TLC
+udp://@233.136.41.167:1234
+#EXTINF:0 type="stream" channelId="2509", LRT Televizija
+udp://@233.136.41.170:1234
+#EXTINF:0 type="stream" channelId="2506", LRT Kultura
+udp://@233.136.41.171:1234
+#EXTINF:0 type="stream" channelId="949", LNK
+udp://@233.136.41.172:1234
+#EXTINF:0 type="stream" channelId="951", TV3 LT
+udp://@233.136.41.173:1234
+#EXTINF:0 type="stream" channelId="-1", TV1
+udp://@233.136.41.174:1234
+#EXTINF:0 type="stream" channelId="-1", TV6 LT
+udp://@233.136.41.175:1234
+#EXTINF:0 type="stream" channelId="2508", Info TV
+udp://@233.136.41.177:1234
+#EXTINF:0 type="stream" channelId="-1", BTV LT
+udp://@233.136.41.176:1234
+#EXTINF:0 type="stream" channelId="1076", TV8
+udp://@233.136.41.179:1234
+#EXTINF:0 type="stream" channelId="2512", Liuks!
+udp://@233.136.41.178:1234
+#EXTINF:0 type="stream" channelId="-1", Sauliu TV
+udp://@233.136.41.181:1234
+#EXTINF:0 type="stream" channelId="1745", ID Xtra
+udp://@233.136.41.185:1234
+#EXTINF:0 type="stream" channelId="285", ЖАРА
+udp://@233.136.41.188:1234
+#EXTINF:0 type="stream" channelId="55", Авто Плюс
+udp://@233.136.41.191:1234
+#EXTINF:0 type="stream" channelId="2501", AMC
+udp://@233.136.41.203:1234
+#EXTINF:0 type="stream" channelId="320", Eurosport News
+udp://@233.136.41.205:1234
+#EXTINF:0 type="stream" channelId="41", Nickelodeon
+udp://@233.136.41.223:1234
+#EXTINF:0 type="stream" channelId="322", Nick Jr
+udp://@233.136.41.224:1234
+#EXTINF:0 type="stream" channelId="-1", INCREDIBLE 720p
+udp://@239.255.14.1:1234
+#EXTINF:0 type="stream" channelId="-1", Slavic MUSIC 720p
+udp://@239.255.14.20:1234
+#EXTINF:0 type="stream" channelId="-1", WORLD of MUSIC 720p
+udp://@239.255.14.22:1234
+#EXTINF:0 type="stream" channelId="-1", NRJ HITS 720p
+udp://@239.255.14.59:1234
+#EXTINF:0 type="stream" channelId="-1", K1 HD 720p
+udp://@239.255.14.77:1234
+#EXTINF:0 type="stream" channelId="-1", KroneHIT TV HD
+udp://@239.255.14.80:1234
+#EXTINF:0 type="stream" channelId="-1", Star Cinema HD
+udp://@239.255.14.94:1234
+#EXTINF:0 type="stream" channelId="-1", Clubbing TV 720p
+udp://@239.255.14.54:1234
+#EXTINF:0 type="stream" channelId="-1", Penki TV
+udp://@239.255.13.1:1234
+#EXTINF:0 type="stream" channelId="-1", LRT Kultura
+udp://@239.255.13.2:1234
+#EXTINF:0 type="stream" channelId="951", TV3 LT
+udp://@239.255.13.4:1234
+#EXTINF:0 type="stream" channelId="-1", BTV LT
+udp://@239.255.13.5:1234
+#EXTINF:0 type="stream" channelId="-1", TV6 LT
+udp://@239.255.13.6:1234
+#EXTINF:0 type="stream" channelId="949", LNK
+udp://@239.255.13.8:1234
+#EXTINF:0 type="stream" channelId="945", Lietuvos Rytas
+udp://@239.255.13.7:1234
+#EXTINF:0 type="stream" channelId="-1", TV1
+udp://@239.255.13.9:1234
+#EXTINF:0 type="stream" channelId="-1", PBK
+udp://@239.255.13.10:1234
+#EXTINF:0 type="stream" channelId="-1", REN TV Lietuva
+udp://@239.255.13.11:1234
+#EXTINF:0 type="stream" channelId="-1", НТВ Мир Lithuania
+udp://@239.255.13.12:1234
+#EXTINF:0 type="stream" channelId="57", Discovery
+udp://@239.255.13.13:1234
+#EXTINF:0 type="stream" channelId="56", NatGeo
+udp://@239.255.13.14:1234
+#EXTINF:0 type="stream" channelId="1076", TV8
+udp://@239.255.13.15:1234
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+udp://@239.255.13.16:1234
+#EXTINF:0 type="stream" channelId="178", Fox Life
+udp://@239.255.13.18:1234
+#EXTINF:0 type="stream" channelId="-1", Balticum TV
+udp://@239.255.13.17:1234
+#EXTINF:0 type="stream" channelId="177", FOX
+udp://@239.255.13.20:1234
+#EXTINF:0 type="stream" channelId="82", Eurosport1
+udp://@239.255.13.19:1234
+#EXTINF:0 type="stream" channelId="1078", NTV
+udp://@239.255.13.21:1234
+#EXTINF:0 type="stream" channelId="949", LNK
+udp://@239.255.13.28:1234
+#EXTINF:0 type="stream" channelId="-1", Service01
+udp://@239.255.14.56:1234
+#EXTINF:0 type="stream" channelId="-1", Service01
+udp://@239.255.14.58:1234
+#EXTINF:0 type="stream" channelId="28", MusicBox RU
+udp://@239.255.14.73:1234
+#EXTINF:0 type="stream" channelId="465", M2
+udp://@239.255.14.72:1234
+#EXTINF:0 type="stream" channelId="-1", MusicBox Gold
+udp://@239.255.14.74:1234
+#EXTINF:0 type="stream" channelId="1816", Bridge Classic
+udp://@239.255.14.76:1234
+#EXTINF:0 type="stream" channelId="464", MusicBox UA
+udp://@239.255.14.75:1234
+#EXTINF:0 type="stream" channelId="1761", One by
+udp://@239.255.14.91:1234
+#EXTINF:0 type="stream" channelId="449", ICTV
+udp://@239.255.14.95:1234
+#EXTINF:0 type="stream" channelId="-1", Service01
+udp://@239.255.14.100:1234
+#EXTINF:0 type="stream" channelId="-1", Penki TV info
+udp://@239.255.12.1:1234
+#EXTINF:0 type="stream" channelId="2661", Filmzone
+udp://@239.255.12.2:1234
+#EXTINF:0 type="stream" channelId="-1", Kidzone TV LT
+udp://@239.255.12.3:1234
+#EXTINF:0 type="stream" channelId="-1", Balticum Platinum
+udp://@239.255.12.4:1234
+#EXTINF:0 type="stream" channelId="68", Dom Kino
+udp://@239.255.12.11:1234
+#EXTINF:0 type="stream" channelId="-1", Zvaigzde
+udp://@239.255.12.42:1234
+#EXTINF:0 type="stream" channelId="1745", ID Xtra
+udp://@233.136.41.186:1234
+#EXTINF:0 type="stream" channelId="-1", Bober
+udp://@233.10.10.17:5000
+#EXTINF:0 type="stream" channelId="68", Dom Kino
+udp://@233.10.10.18:5000
+#EXTINF:0 type="stream" channelId="-1", Telekafe
+udp://@233.10.10.19:5000
+#EXTINF:0 type="stream" channelId="-1", 1 Muzyka
+udp://@233.10.10.20:5000
+#EXTINF:0 type="stream" channelId="-1", Vremja
+udp://@233.10.10.21:5000
+#EXTINF:0 type="stream" channelId="-1", DK Premium
+udp://@233.10.10.22:5000
+#EXTINF:0 type="stream" channelId="-1", DK Premium HD
+udp://@233.10.10.23:5000
+#EXTINF:0 type="stream" channelId="-1", Karusel Int
+udp://@233.10.10.24:5000
+#EXTINF:0 type="stream" channelId="-1", NTV-Serial
+udp://@233.10.10.27:5000
+#EXTINF:0 type="stream" channelId="-1", NTV-Style
+udp://@233.10.10.28:5000
+#EXTINF:0 type="stream" channelId="-1", NTV-Pravo
+udp://@233.10.10.29:5000
+#EXTINF:0 type="stream" channelId="3294", O!
+udp://@233.10.10.30:5000
+#EXTINF:0 type="stream" channelId="-1", Poehali!
+udp://@233.10.10.31:5000
+#EXTINF:0 type="stream" channelId="-1", LRT Televizija HD
+udp://@239.255.12.6:1234
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+udp://@233.136.41.156:1234
+#EXTINF:0 type="stream" channelId="-1", LRT Televizija HD
+udp://@233.136.41.158:1234
+#EXTINF:0 type="stream" channelId="279", Fashion One HD
+udp://@233.136.41.160:1234
+#EXTINF:0 type="stream" channelId="-1", Euronews HD
+udp://@233.136.41.219:1234
+#EXTINF:0 type="stream" channelId="225", Eurosport HD
+udp://@233.136.41.104:1234
+#EXTINF:0 type="stream" channelId="235", Travel Channel HD
+udp://@233.136.41.124:1234
+#EXTINF:0 type="stream" channelId="933", Eurosport 2 HD
+udp://@233.136.41.143:1234
+#EXTINF:0 type="stream" channelId="498", НТВ HD
+udp://@225.2.226.24:1234
+#EXTINF:0 type="stream" channelId="1476", 1HD
+udp://@225.2.226.25:1234
+#EXTINF:0 type="stream" channelId="1762", Планета HD
+udp://@225.2.226.27:1234
+#EXTINF:0 type="stream" channelId="2802", Bollywood HD
+udp://@225.2.226.33:1234
+#EXTINF:0 type="stream" channelId="125", Первый канал HD
+udp://@225.2.226.34:1234
+#EXTINF:0 type="stream" channelId="569", Матч! Игра HD
+udp://@225.2.226.35:1234
+#EXTINF:0 type="stream" channelId="85", Матч! Арена HD
+udp://@225.2.226.36:1234
+#EXTINF:0 type="stream" channelId="-1", Item 464
+type="stream" channelId="-1", Item 464
+#EXTINF:0 type="stream" channelId="-1", Item 465
+type="stream" channelId="-1", Item 465
+#EXTINF:0 type="stream" channelId="-1", Item 466
+type="stream" channelId="-1", Item 466
+#EXTINF:0 type="stream" channelId="-1", Item 467
+type="stream" channelId="-1", Item 467
