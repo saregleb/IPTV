@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>3</timespan>
+  <update>f</update>
+
+  <!--
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+<channel site="tv24.lt" xmltv_id="TVPlay Sports" site_id="tvplay-sports" update="i">TVPlay Sports</channel>
+<channel site="tv24.lt" xmltv_id="MTV Europe" site_id="mtv-europe" update="i">MTV Europe</channel>
+<channel site="tv24.lt" xmltv_id="MTV Hits" site_id="mtv-hits" update="i">MTV Hits</channel>
+<channel site="tv24.lt" xmltv_id="MTV Music" site_id="mtv-music" update="i">MTV Music</channel>
+<channel site="tv24.lt" xmltv_id="LRT Televizija" site_id="lrt-televizija" update="i">LRT Televizija</channel>
+<channel site="tv24.lt" xmltv_id="LRT Plius" site_id="lrt-plius" update="i">LRT Plius</channel>
+<channel site="tv24.lt" xmltv_id="TV3" site_id="tv3-4" update="i">TV3</channel>
+<channel site="tv24.lt" xmltv_id="LNK" site_id="lnk" update="i">LNK</channel>
+<channel site="tv24.lt" xmltv_id="TV1" site_id="tv1" update="i">TV1</channel>
+<channel site="tv24.lt" xmltv_id="Lietuvos ryto televizija" site_id="lietuvos-ryto-televizija" update="i">Lietuvos ryto televizija</channel>
+<channel site="tv24.lt" xmltv_id="BTV" site_id="btv" update="i">BTV</channel>
+<channel site="tv24.lt" xmltv_id="Info TV" site_id="info-tv" update="i">Info TV</channel>
+<channel site="tv24.lt" xmltv_id="TV8" site_id="tv8" update="i">TV8</channel>
+<channel site="tv24.lt" xmltv_id="TV6" site_id="tv6-2" update="i">TV6</channel>
+<channel site="tv24.lt" xmltv_id="Liuks!" site_id="liuks" update="i">Liuks!</channel>
+<channel site="tv24.lt" xmltv_id="TV1000 Premium" site_id="tv1000-premium" update="i">TV1000 Premium</channel>
+<channel site="tv24.lt" xmltv_id="TV1000 Action" site_id="tv1000-action" update="i">TV1000 Action</channel>
+<!-- Viasat Motor -->
+<channel site="tv24.lt" xmltv_id="VIASAT Nature East" site_id="viasat-nature-east" update="i">VIASAT Nature East</channel>
+<channel site="tv24.lt" xmltv_id="Discovery Science EU" site_id="discovery-science-eu" update="i">Discovery Science EU</channel>
+<channel site="tv24.lt" xmltv_id="Discovery Channel CE" site_id="discovery-channel-ce" update="i">Discovery Channel CE</channel>
+<channel site="tv24.lt" xmltv_id="TLC Pan" site_id="tlc-pan" update="i">TLC Pan</channel>
+<channel site="tv24.lt" xmltv_id="Viasat History" site_id="viasat-history" update="i">Viasat History</channel>
+<channel site="tv24.lt" xmltv_id="Animal Planet HD" site_id="animal-planet-hd" update="i">Animal Planet HD</channel>
+<channel site="tv24.lt" xmltv_id="Da Vinci Learning" site_id="da-vinci-learning" update="i">Da Vinci Learning</channel>
+<channel site="tv24.lt" xmltv_id="Boomerang Baltic (CEE)" site_id="boomerang-baltic-cee" update="i">Boomerang Baltic (CEE)</channel>
+<channel site="tv24.lt" xmltv_id="Eurosport 1" site_id="eurosport-1" update="i">Eurosport 1</channel>
+<channel site="tv24.lt" xmltv_id="Eurosport 2" site_id="eurosport-2" update="i">Eurosport 2</channel>
+<channel site="tv24.lt" xmltv_id="JimJam Russia" site_id="jimjam-russia" update="i">JimJam Russia</channel>
+<channel site="tv24.lt" xmltv_id="Extreme Sports" site_id="extreme-sports" update="i">Extreme Sports</channel>
+<channel site="tv24.lt" xmltv_id="Balticum TV" site_id="balticum-tv" update="i">Balticum TV</channel>
+<channel site="tv24.lt" xmltv_id="National Geographic Channel HD" site_id="national-geographic-channel-hd" update="i">National Geographic Channel HD</channel>
+<channel site="tv24.lt" xmltv_id="VH1 Euro IMM" site_id="vh1-euro-imm" update="i">VH1 Euro IMM</channel>
+<channel update="i" site="tv24.lt" site_id="viasat-explore-nordic" xmltv_id="Viasat Explore Nordic">Viasat Explore Nordic</channel>
+<!-- TV1000 East -->
+<channel site="tv24.lt" xmltv_id="Sport1" site_id="sport-1" update="i">Sport1</channel>
+<channel update="i" site="tvprograma.lt" site_id="duck-tv/283" xmltv_id="Duck TV">Duck TV</channel>
+<channel site="tv24.lt" xmltv_id="Deutche Welle" site_id="deutche-welle" update="i">Deutche Welle</channel>
+<channel site="tv24.lt" xmltv_id="CNN" site_id="cnn" update="i">CNN</channel>
+<channel site="tv24.lt" xmltv_id="Discovery HD Showcase" site_id="discovery-hd-showcase" update="i">Discovery HD Showcase</channel>
+<channel site="tv24.lt" xmltv_id="France 24 UK" site_id="france-24-uk" update="i">France 24 UK</channel>
+<channel site="tv24.lt" xmltv_id="EuroNews" site_id="euronews" update="i">EuroNews</channel>
+<channel site="tv24.lt" xmltv_id="Mezzo" site_id="mezzo" update="i">Mezzo</channel>
+<channel update="i" site="tv24.lt" site_id="pro-7" xmltv_id="PRO 7">PRO 7</channel>
+<channel update="i" site="tv24.lt" site_id="sony-channel" xmltv_id="Sony Channel">Sony Channel</channel>
+<channel update="i" site="dk.timefor.tv" site_id="tv5-monde" xmltv_id="FR TV5 Monde Europe">FR TV5 Monde Europe</channel>
+<channel site="tv24.lt" xmltv_id="Viasat Golf" site_id="viasat-golf" update="i">Viasat Golf</channel>
+<channel update="i" site="tvprograma.lt" site_id="tve-internacional/225" xmltv_id="TVE internacional">TVE internacional</channel>
+<channel update="i" site="tv24.lt" site_id="deluxe-music" xmltv_id="Deluxe Music">Deluxe Music</channel>
+<channel site="tv24.lt" xmltv_id="Disney XD" site_id="disney-xd" update="i">Disney XD</channel>
+<channel site="tv24.lt" xmltv_id="Disney Channel" site_id="disney-channel" update="i">Disney Channel</channel>
+<channel site="tv24.lt" xmltv_id="Disney Junior" site_id="disney-junior" update="i">Disney Junior</channel>
+<channel update="i" site="oztivo.net.mp" site_id="NGW" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+<channel site="tv24.lt" xmltv_id="Balticum Auksinis" site_id="balticum-auksinis" update="i">Balticum Auksinis</channel>
+<channel site="tv24.lt" xmltv_id="Fox Life Russia" site_id="fox-life-russia" update="i">Fox Life Russia</channel>
+<!-- Sky News International -->
+<channel site="tv24.lt" xmltv_id="Fox Russia" site_id="fox-russia" update="i">Fox Russia</channel>
+<channel update="i" site="yourtv.com.au" site_id="431326#168##Sydney" xmltv_id="The History Channel HD">The History Channel HD</channel>
+<channel update="i" site="cgates.lt" site_id="100" xmltv_id="Pingviniukas">Pingviniukas</channel>
+<channel site="tv24.lt" xmltv_id="English Club TV" site_id="english-club-tv" update="i">English Club TV</channel>
+<!-- LTV World -->
+<channel site="tv24.lt" xmltv_id="Kidzone Baltic" site_id="kidzone-baltic" update="i">Kidzone Baltic</channel>
+<channel site="tv24.lt" xmltv_id="Viasat Motor" site_id="viasat-motor" update="i">Viasat Motor</channel>
+<channel site="tv.mail.ru" xmltv_id="Viasat Sport HD" site_id="1818" update="i">Viasat Sport HD</channel>
+<channel site="tv24.lt" xmltv_id="MCM TOP" site_id="mcm-top" update="i">MCM TOP</channel>
+<channel site="tvprograma.lt" xmltv_id="iConcerts" site_id="iconcerts/219" update="i">iConcerts</channel>
+<channel site="tv.mail.ru" xmltv_id="МАТЧ!" site_id="2060" update="i">МАТЧ!</channel>
+<channel site="tv.mail.ru" xmltv_id="МАТЧ! АРЕНА HD" site_id="2124" update="i">МАТЧ! АРЕНА HD</channel>
+<channel site="tv.mail.ru" xmltv_id="МАТЧ! ИГРА" site_id="2122" update="i">МАТЧ! ИГРА</channel>
+<channel site="tv.mail.ru" xmltv_id="МАТЧ! НАШ СПОРТ" site_id="2120" update="i">МАТЧ! НАШ СПОРТ</channel>
+<channel site="tv.mail.ru" xmltv_id="МАТЧ! ПЛАНЕТА" site_id="2121" update="i">МАТЧ! ПЛАНЕТА</channel>
+<!-- ################## OLD CONFIGURATION ###################### -->
+
+<channel site="tv24.lt" xmltv_id="PBK Litva" site_id="pbk-litva" update="i">PBK Litva</channel>
+<channel site="tv24.lt" xmltv_id="LRT Lituanica" site_id="lrt-lituanica" update="i">LRT Lituanica</channel>
+
+<channel site="tv24.lt" xmltv_id="TV Polonia" site_id="tv-polonia" update="i">TV Polonia</channel>
+
+<channel site="tv24.lt" xmltv_id="Init TV" site_id="init-tv" update="i">Init TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Pūkas TV" site_id="pukas-tv" update="i">Pūkas TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Dzūkijos TV" site_id="dzukijos-tv" update="i">Dzūkijos TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Marijampolės TV" site_id="marijampoles-tv" update="i">Marijampolės TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Šiaulių TV" site_id="siauliu-tv" update="i">Šiaulių TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Žvaigždė" site_id="zvaigzde" update="i">Žvaigždė</channel>
+
+<channel site="tv24.lt" xmltv_id="Sony Sci-Fi Russia" site_id="sony-sci-fi-russia" update="i">Sony Sci-Fi Russia</channel>
+
+<channel site="tv24.lt" xmltv_id="Penki TV" site_id="penki-tv" update="i">Penki TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Seimas tiesiogiai" site_id="seimas-tiesiogiai" update="i">Seimas tiesiogiai</channel>
+
+<channel site="tv24.lt" xmltv_id="Init Ekstra TV" site_id="init-ekstra-tv" update="i">Init Ekstra TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Play TV" site_id="play-tv" update="i">Play TV</channel>
+
+<channel site="tv24.lt" xmltv_id="TV 7" site_id="tv-7" update="i">TV 7</channel>
+
+<channel site="tv24.lt" xmltv_id="GNTV" site_id="gntv" update="i">GNTV</channel>
+
+<channel site="tv24.lt" xmltv_id="Balticum Platinum" site_id="balticum-platinum" update="i">Balticum Platinum</channel>
+
+<channel site="tv24.lt" xmltv_id="TV1000" site_id="tv1000" update="i">TV1000</channel>
+
+<channel site="tv24.lt" xmltv_id="TV1000 Kino" site_id="tv1000-kino" update="i">TV1000 Kino</channel>
+
+
+
+<channel site="tv24.lt" xmltv_id="TV-21" site_id="tv-21" update="i">TV-21</channel>
+
+<channel site="tv24.lt" xmltv_id="FILMZONE" site_id="filmzone-1" update="i">FILMZONE</channel>
+
+<channel site="tv24.lt" xmltv_id="FILMZONE+" site_id="filmzone" update="i">FILMZONE+</channel>
+
+<channel site="tv24.lt" xmltv_id="Bollywood HD" site_id="bollywood-hd" update="i">Bollywood HD</channel>
+
+<channel site="tv24.lt" xmltv_id="Zee TV" site_id="zee-tv" update="i">Zee TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Filmbox Baltic" site_id="filmbox-baltic" update="i">Filmbox Baltic</channel>
+
+<channel site="tv24.lt" xmltv_id="MGM HD" site_id="mgm-hd" update="i">MGM HD</channel>
+
+<channel site="tv24.lt" xmltv_id="AMC" site_id="amc" update="i">AMC</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Viasat OS 4" site_id="viasat-os-4" update="i">Viasat OS 4</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Eurosport 2 (Bundesliga)" site_id="eurosport-2-bundesliga" update="i">Eurosport 2 (Bundesliga)</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Setanta Eurasia" site_id="setanta-eurasia" update="i">Setanta Eurasia</channel>
+
+<channel site="tv24.lt" xmltv_id="NBA" site_id="nba" update="i">NBA</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Outdoor HD" site_id="outdoor-hd" update="i">Outdoor HD</channel>
+
+<channel site="tv24.lt" xmltv_id="Viasat Hockey" site_id="viasat-hockey" update="i">Viasat Hockey</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Драйв" site_id="drayv" update="i">Драйв</channel>
+
+<channel site="tv24.lt" xmltv_id="Авто 24" site_id="avto-24" update="i">Авто 24</channel>
+
+
+<channel site="tv24.lt" xmltv_id="КХЛ ТВ" site_id="kkhl-tv" update="i">КХЛ ТВ</channel>
+
+
+<channel site="tv24.lt" xmltv_id="MTV Dance" site_id="mtv-dance" update="i">MTV Dance</channel>
+
+<channel site="tv24.lt" xmltv_id="MTV Rocks" site_id="mtv-rocks" update="i">MTV Rocks</channel>
+
+<channel site="tv24.lt" xmltv_id="MTV Live HD" site_id="mtv-live-hd" update="i">MTV Live HD</channel>
+
+
+
+<channel site="tv24.lt" xmltv_id="VH1 Classic Europe" site_id="vh1-classic-europe" update="i">VH1 Classic Europe</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Unitel Classica HD" site_id="unitel-classica-hd" update="i">Unitel Classica HD</channel>
+
+<channel site="tv24.lt" xmltv_id="VIVA" site_id="viva" update="i">VIVA</channel>
+
+<channel site="tv24.lt" xmltv_id="RFM TV" site_id="rfm-tv" update="i">RFM TV</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Lolo TV (LT)" site_id="lolo-tv-lt" update="i">Lolo TV (LT)</channel>
+
+<channel site="tv24.lt" xmltv_id="Cartoon Network RSE" site_id="cartoon-network-rse" update="i">Cartoon Network RSE</channel>
+
+
+
+
+
+<channel site="tv24.lt" xmltv_id="Nickelodeon EURO" site_id="nickelodeon-euro" update="i">Nickelodeon EURO</channel>
+
+<channel site="tv24.lt" xmltv_id="Nick Jr." site_id="nick-jr" update="i">Nick Jr.</channel>
+
+<channel site="tv24.lt" xmltv_id="Gulli" site_id="gulli" update="i">Gulli</channel>
+
+<channel site="tv24.lt" xmltv_id="Baby TV" site_id="baby-tv" update="i">Baby TV</channel>
+
+<channel site="tv24.lt" xmltv_id="Мульт" site_id="mult" update="i">Мульт</channel>
+
+<channel site="tv24.lt" xmltv_id="НТВ-Мир" site_id="ntv-mir" update="i">НТВ-Мир</channel>
+
+<channel site="tv24.lt" xmltv_id="Ren Lietuva" site_id="ren-lietuva" update="i">Ren Lietuva</channel>
+
+<channel site="tv24.lt" xmltv_id="ТВЦ" site_id="tvts" update="i">ТВЦ</channel>
+
+<channel site="tv24.lt" xmltv_id="РТВ International" site_id="rtv-international" update="i">РТВ International</channel>
+
+<channel site="tv24.lt" xmltv_id="Дождь" site_id="dozhd" update="i">Дождь</channel>
+
+<channel site="tv24.lt" xmltv_id="RenTV Baltic" site_id="rentv-baltic" update="i">RenTV Baltic</channel>
+
+<channel site="tv24.lt" xmltv_id="National Geographic Channel Russia" site_id="national-geographic-channel-russia" update="i">National Geographic Channel Russia</channel>
+
+
+<channel site="tv24.lt" xmltv_id="Animal Planet EU" site_id="animal-planet-eu" update="i">Animal Planet EU</channel>
+
+<channel site="tv24.lt" xmltv_id="History Europe" site_id="history-europe" update="i">History Europe</channel>
+
+<channel site="tv24.lt" xmltv_id="Travel Channel" site_id="travel-channel" update="i">Travel Channel</channel>
+
+<channel site="tv24.lt" xmltv_id="Discovery World EU" site_id="discovery-world-eu" update="i">Discovery World EU</channel>
+
+
+
+
+
+
+<channel site="tv24.lt" xmltv_id="Viasat Nature/History HD" site_id="viasat-naturehistory-hd" update="i">Viasat Nature/History HD</channel>
+
+<channel site="tv24.lt" xmltv_id="Nat Geo Wild Europe" site_id="nat-geo-wild-europe" update="i">Nat Geo Wild Europe</channel>
+
+<channel site="tv24.lt" xmltv_id="BBC Earth HD" site_id="bbc-earth-hd" update="i">BBC Earth HD</channel>
+
+<channel site="tv24.lt" xmltv_id="Discovery ID XTRA" site_id="discovery-id-xtra" update="i">Discovery ID XTRA</channel>
+
+
+
+
+
+<channel site="tv24.lt" xmltv_id="Discovery DTX" site_id="discovery-dtx" update="i">Discovery DTX</channel>
+
+<channel site="tv24.lt" xmltv_id="History2" site_id="history2" update="i">History2</channel>
+
+<channel site="tv24.lt" xmltv_id="BBC World" site_id="bbc-world" update="i">BBC World</channel>
+
+
+
+<channel site="tv24.lt" xmltv_id="TV3+" site_id="tv3-3" update="i">TV3+</channel>
+
+<channel site="tv24.lt" xmltv_id="Sky News" site_id="sky-news" update="i">Sky News</channel>
+
+
+
+<channel site="tv24.lt" xmltv_id="CNBC Europe" site_id="cnbc-europe" update="i">CNBC Europe</channel>
+
+<channel site="tv24.lt" xmltv_id="Bloomberg" site_id="bloomberg" update="i">Bloomberg</channel>
+
+<channel site="tv24.lt" xmltv_id="World Bussines Channel" site_id="world-bussines-channel" update="i">World Bussines Channel</channel>
+
+<channel site="tv24.lt" xmltv_id="TV5Monde Europe" site_id="tv5monde-europe" update="i">TV5Monde Europe</channel>
+
+<channel site="tv24.lt" xmltv_id="RAI Scuola" site_id="rai-scuola" update="i">RAI Scuola</channel>
+
+<channel site="tv24.lt" xmltv_id="UA!??!TV" site_id="uatv" update="i">UA!??!TV</channel>
+
+
+<channel site="tv24.lt" xmltv_id="DocuBox" site_id="docubox" update="i">DocuBox</channel>
+
+<!-- <channel site="tv24.lt" xmltv_id="CCTV News" site_id="cctv-news" update="i">CCTV News</channel> -->
+
+<channel site="tv24.lt" xmltv_id="24h" site_id="24h" update="i">24h</channel>
+
+<channel site="tv24.lt" xmltv_id="Playboy TV Europe" site_id="playboy-tv-europe" update="i">Playboy TV Europe</channel>
+
+<channel site="tv24.lt" xmltv_id="Blue Hustler" site_id="blue-hustler" update="i">Blue Hustler</channel>
+
+<channel site="tv24.lt" xmltv_id="Erox HD" site_id="erox-hd" update="i">Erox HD</channel>
+
+
+
+
+<channel site="tv24.lt" xmltv_id="Sony Turbo Baltic" site_id="sony-turbo-baltic" update="i">Sony Turbo Baltic</channel>
+
+
+
+
+</settings>

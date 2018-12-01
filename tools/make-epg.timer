@@ -1,0 +1,10 @@
+[Unit]
+Description=Make EPG daily
+
+[Timer]
+OnBootSec=10min
+OnCalendar=*-*-* 04:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
