@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="2511", LRT HD
-udp://@239.255.12.207:1234
+udp://@239.255.12.6:1234
 #EXTINF:0 type="stream" channelId="949", LNK HD
 udp://@239.255.12.206:1234
 #EXTINF:0 type="stream" channelId="2329", TV3 HD
