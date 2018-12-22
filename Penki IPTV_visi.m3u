@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="2511", LRT HD
-udp://@239.255.12.6:1234
+udp://@239.255.12.207:1234
 #EXTINF:0 type="stream" channelId="949", LNK HD
-udp://@239.255.12.25:1234
+udp://@239.255.12.206:1234
 #EXTINF:0 type="stream" channelId="2329", TV3 HD
 udp://@239.255.12.13:1234
 #EXTINF:0 type="stream" channelId="948", BTV HD
-udp://@239.255.12.26:1234
+udp://@239.255.12.209:1234
 #EXTINF:0 type="stream" channelId="945", Lietuvos rytas HD
-udp://@239.255.12.8:1234
+udp://@239.255.12.205:1234
 #EXTINF:0 type="stream" channelId="952", TV6 HD LT
 udp://@239.255.12.16:1234
 #EXTINF:0 type="stream" channelId="-1", Info TV HD
 udp://@239.255.12.28:1234
 #EXTINF:0 type="stream" channelId="950", TV1 HD
-udp://@239.255.12.27:1234
+udp://@239.255.12.210:1234
 #EXTINF:0 type="stream" channelId="688", Platinum
 udp://@239.255.12.4:1234
 #EXTINF:0 type="stream" channelId="605", TV1000 Premium HD
