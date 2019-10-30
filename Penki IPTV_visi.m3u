@@ -1,90 +1,141 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2511", LRT HD
-udp://@239.255.12.6:1234
-#EXTINF:0 type="stream" channelId="949", LNK HD
-udp://@239.255.12.206:1234
-#EXTINF:0 type="stream" channelId="2329", TV3 HD
-udp://@239.255.12.13:1234
-#EXTINF:0 type="stream" channelId="948", BTV HD
-udp://@239.255.12.209:1234
-#EXTINF:0 type="stream" channelId="945", Lietuvos rytas HD
-udp://@239.255.12.205:1234
-#EXTINF:0 type="stream" channelId="952", TV6 HD LT
-udp://@239.255.12.16:1234
-#EXTINF:0 type="stream" channelId="-1", Info TV HD
-udp://@239.255.12.28:1234
-#EXTINF:0 type="stream" channelId="950", TV1 HD
-udp://@239.255.12.210:1234
-#EXTINF:0 type="stream" channelId="688", Platinum
-udp://@239.255.12.4:1234
-#EXTINF:0 type="stream" channelId="605", TV1000 Premium HD
-udp://@239.255.12.72:1234
-#EXTINF:0 type="stream" channelId="-1", TVPlay Sports+
-udp://@239.255.12.10:1234
+
+#LIETUVISKI##############
+
+#EXTINF:0,LRT HD
+udp://@239.255.15.64:1234
+
+#EXTINF:0,LNK HD
+udp://@239.255.15.63:1234
+
+#EXTINF:0,TV3 HD
+udp://@239.255.15.122:1234
+
+#EXTINF:0,BTV HD
+udp://@239.255.15.11:1234
+
+#EXTINF:0,Lietuvos rytas HD
+udp://@239.255.15.67:1234
+
+#EXTINF:0,TV6 HD LT
+udp://@239.255.15.112:1234
+
+#EXTINF:0,Info TV HD
+udp://@239.255.15.52:1234
+
+#EXTINF:0,TV1 HD
+udp://@239.255.15.116:1234
+
+#EXTINF:0,PlatinumHD
+udp://@239.255.15.110:1234
+
+#EXTINF:0,TV1000 Premium HD
+udp://@239.255.15.120:1234
+
+#EXTINF:0,TVPlay Sports HD 
+udp://@239.255.15.127:1234
+
+#EXTINF:0,TVPlay Sports+ HD 
+udp://@239.255.15.128:1234
+
+#Rusiski##################
+
 #EXTINF:0 type="stream" channelId="125", Первый канал HD
 udp://@225.2.225.12:1234
+
 #EXTINF:0 type="stream" channelId="203", Россия 1 HD
 udp://@225.2.225.13:1234
+
 #EXTINF:0 type="stream" channelId="498", HTB HD
 udp://@225.2.225.36:1234
+
 #EXTINF:0 type="stream" channelId="3630", THT HD
 udp://@225.2.225.42:1234
+
 #EXTINF:0 type="stream" channelId="1727", МИР HD
 udp://@225.2.225.26:1234
+
 #EXTINF:0 type="stream" channelId="-1", Filmzone+ HD
 udp://@233.136.41.161:1234
+
 #EXTINF:0 type="stream" channelId="605", VIP Premiere HD
 udp://@225.2.225.32:1234
+
 #EXTINF:0 type="stream" channelId="606", VIP Megahit HD
 udp://@225.2.225.31:1234
+
 #EXTINF:0 type="stream" channelId="607", VIP Comedy HD
 udp://@225.2.225.30:1234
+
 #EXTINF:0 type="stream" channelId="410", КИНОПРЕМЬЕРА HD
 udp://@225.2.225.1:1234
+
 #EXTINF:0 type="stream" channelId="343", MGM HD
 udp://@225.2.225.11:1234
+
 #EXTINF:0 type="stream" channelId="2657", Дом Кино Премиум HD
 udp://@225.2.225.40:1234
+
 #EXTINF:0 type="stream" channelId="208", FOX HD
 udp://@225.2.225.29:1234
+
 #EXTINF:0 type="stream" channelId="915", Amedia Premium HD
 udp://@225.2.225.134:1234
+
 #EXTINF:0 type="stream" channelId="2802", Bollywood HD
 udp://@225.2.225.138:1234
+
 #EXTINF:0 type="stream" channelId="3555", Sony Channel Lithuania HD
 udp://@239.255.12.9:1234
+
 #EXTINF:0 type="stream" channelId="319", Sony Turbo Lithuania HD
 udp://@239.255.12.5:1234
+
 #EXTINF:0 type="stream" channelId="241", Discovery Showcase HD
 udp://@233.136.41.54:1234
+
 #EXTINF:0 type="stream" channelId="341", Discovery Channel HD
 udp://@225.2.225.5:1234
+
 #EXTINF:0 type="stream" channelId="240", Animal Planet HD
 udp://@225.2.225.37:1234
+
 #EXTINF:0 type="stream" channelId="1040", TLC HD
 udp://@225.2.225.244:1234
+
 #EXTINF:0 type="stream" channelId="1508", Discovery Science HD
 udp://@233.136.41.157:1234
+
 #EXTINF:0 type="stream" channelId="60", DTX HD
 udp://@233.136.41.184:1234
+
 #EXTINF:0 type="stream" channelId="1745", ID Xtra HD
 udp://@233.136.41.155:1234
+
 #EXTINF:0 type="stream" channelId="207", National Geographic HD
 udp://@225.2.225.133:1234
+
 #EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
 udp://@225.2.225.8:1234
+
 #EXTINF:0 type="stream" channelId="234", HD Life
 udp://@225.2.225.3:1234
+
 #EXTINF:0 type="stream" channelId="1494", RTG HD
 udp://@225.2.225.9:1234
+
 #EXTINF:0 type="stream" channelId="1456", History HD
 udp://@225.2.225.135:1234
+
 #EXTINF:0 type="stream" channelId="235", Travel Channel HD
 udp://@225.2.225.137:1234
+
 #EXTINF:0 type="stream" channelId="588", Viasat Nature/History HD
 udp://@225.2.225.33:1234
+
 #EXTINF:0 type="stream" channelId="130", Viasat History HD
 udp://@233.136.41.140:1234
+
 #EXTINF:0 type="stream" channelId="165", Viasat Explorer HD
 udp://@233.136.41.141:1234
 #EXTINF:0 type="stream" channelId="3042", Тлум HD
@@ -941,11 +992,10 @@ udp://@225.2.226.34:1234
 udp://@225.2.226.35:1234
 #EXTINF:0 type="stream" channelId="85", Матч! Арена HD
 udp://@225.2.226.36:1234
-#EXTINF:0 type="stream" channelId="-1", Item 464
-type="stream" channelId="-1", Item 464
-#EXTINF:0 type="stream" channelId="-1", Item 465
-type="stream" channelId="-1", Item 465
-#EXTINF:0 type="stream" channelId="-1", Item 466
-type="stream" channelId="-1", Item 466
-#EXTINF:0 type="stream" channelId="-1", Item 467
-type="stream" channelId="-1", Item 467
+
+
+#EXTINF:0,Funbox UHD
+udp://@239.255.14.1:1234
+
+#EXTINF:0,WORLD of MUSIC
+udp://@239.255.14.22:1234
