@@ -40,11 +40,7 @@ udp://@239.255.15.128:1234
 
 #Rusiski##################
 
-#EXTINF:0 type="stream" channelId="125", Первый канал HD
-udp://@225.2.225.12:1234
 
-#EXTINF:0 type="stream" channelId="203", Россия 1 HD
-udp://@225.2.225.13:1234
 
 #EXTINF:0 type="stream" channelId="498", HTB HD
 udp://@225.2.225.36:1234
