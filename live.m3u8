@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="https://github.com/saregleb/IPTV-playlist/blob/master/epg.xml.gz"
 #EXTINF:-1,Pervyy kanal HD
 http://cdn02.itv.live/ch003/video.m3u8?token=a81118bd8419a7b8c347b24375077b7331f374539
 #EXTINF:-1,Rossiya HD
