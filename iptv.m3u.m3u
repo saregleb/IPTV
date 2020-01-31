@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/saregleb/IPTV-playlist/blob/master/epg.xml.gz"
 #EXTINF:0 type="stream" channelId="2511", LRT Televizija HD
 udp://@239.255.15.64:1234
 #EXTINF:0 type="stream" channelId="949", LNK HD
