@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Кинозал 1 (Марс-ТВ)
+#EXTINF:-1,Марс-ТВ
 https://marstv.catcast.tv/content/37033/index.m3u8
-#EXTINF:-1,Кинозал 2 (СССР EVGENIY)
+#EXTINF:-1,СССР EVGENIY
 https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1,Кинозал 3 (Гал ТВ)
+#EXTINF:-1,Гал ТВ
 http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 4 (Видеокассета)
+#EXTINF:-1,Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,Кинозал 5 (Fear (УЖАСЫ) EVGENIY)
 https://v2.catcast.tv/content/36277/index.m3u8
