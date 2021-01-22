@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:0 type="stream" channelId="2511" logo="https://raw.githubusercontent.com/saregleb/Penki_IPTV/master/images/lrt.png", LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:0 type="stream" channelId="949" logo="https://raw.githubusercontent.com/saregleb/Penki_IPTV/master/images/lnk.png", LNK HD
