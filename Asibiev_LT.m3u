@@ -1,0 +1,50 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0 group-title="другие" tvg-id="3370" tvg-logo="http://epg.it999.ru/img/3370.png" tvg-rec="0",LNK HD LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6405/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3374" tvg-logo="http://epg.it999.ru/img/3374.png" tvg-rec="0",TV1 HD LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6409/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3282" tvg-logo="http://epg.it999.ru/img/3282.png" tvg-rec="0",Lietuvos Rytas LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6359/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3283" tvg-logo="http://epg.it999.ru/img/3283.png" tvg-rec="0",LRT HD LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6360/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3284" tvg-logo="http://epg.it999.ru/img/3284.png" tvg-rec="0",LRT Plius LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6361/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3285" tvg-logo="http://epg.it999.ru/img/3285.png" tvg-rec="0",LRT Plius HD LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6362/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3286" tvg-logo="http://epg.it999.ru/img/3286.png" tvg-rec="0",INFO TV LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6363/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3287" tvg-logo="http://epg.it999.ru/img/3287.png" tvg-rec="0",LIUKS! LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6364/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3288" tvg-logo="http://epg.it999.ru/img/3288.png" tvg-rec="0",Siauliu TV LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6365/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="2932" tvg-logo="http://epg.it999.ru/img/2932.png" tvg-rec="0",Sport 1 LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6366/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="2933" tvg-logo="http://epg.it999.ru/img/2933.png" tvg-rec="0",Sport 1 HD LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6367/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3289" tvg-logo="http://epg.it999.ru/img/3289.png" tvg-rec="0",Pingviniukas LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6368/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3290" tvg-logo="http://epg.it999.ru/img/3290.png" tvg-rec="3",Апостроф TV
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6373/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3363" tvg-logo="http://epg.it999.ru/img/3363.png" tvg-rec="0",BTV HD LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6398/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3364" tvg-logo="http://epg.it999.ru/img/3364.png" tvg-rec="0",Balticum
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6399/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3365" tvg-logo="http://epg.it999.ru/img/3365.png" tvg-rec="0",DelfiTV HD
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6400/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3366" tvg-logo="http://epg.it999.ru/img/3366.png" tvg-rec="0",Dzukijos
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6401/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3278" tvg-logo="http://epg.it999.ru/img/3278.png" tvg-rec="0",TV8 LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6355/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3279" tvg-logo="http://epg.it999.ru/img/3279.png" tvg-rec="0",LRT Televizija LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6356/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3280" tvg-logo="http://epg.it999.ru/img/3280.png" tvg-rec="0",TV1 LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6357/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3273" tvg-logo="http://epg.it999.ru/img/3273.png" tvg-rec="0",TV3 LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6349/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3274" tvg-logo="http://epg.it999.ru/img/3274.png" tvg-rec="0",TV6 LT
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6350/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3268" tvg-logo="http://epg.it999.ru/img/3268.png" tvg-rec="0",BTV
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6344/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="3269" tvg-logo="http://epg.it999.ru/img/3269.png" tvg-rec="0",Kidzone baltic
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/6345/index.m3u8
+
