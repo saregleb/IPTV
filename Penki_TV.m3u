@@ -7,7 +7,7 @@ udp://@239.255.15.63:1234
 udp://@239.255.15.122:1234
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/saregleb/Penki_IPTV/master/images/btv.png", BTV HD
 udp://@239.255.15.11:1234
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lietuvos-rytas-tv.png", Lietuvos rytas HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/saregleb/IPTV-playlist/master/images/lietuvos-rytas-tv.png", Lietuvos rytas HD
 udp://@239.255.15.67:1234
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/saregleb/Penki_IPTV/master/images/tv6.png", TV6 HD
 udp://@239.255.15.112:1234
