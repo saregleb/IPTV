@@ -1,0 +1,99 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:0,Первый канал HD
+https://plmgr-moretv.cdnvideo.ru/1tvstream/2/chunklist.m3u8?instance_id=06&session_id=c85060ab1fae49ae9ad6d6b4ee0ede3d&subscriber_id=
+#EXTINF:0,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,Матч! HD
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0,НТВ HD
+https://mobdrm.mediavitrina.ru/hls-live1/streams/ntv/ntv-chunks-6.m3u8?cdn=https://edge02d.mediavitrina.ru&token=c09XD7UwcfftjXXzPBzzEut4eUvMt2R08e0jp3uDF2Y.uDuTJvilbPqn0orfWXhBLGalsNrny-tsUwYaOrYmEJI.1613240248
+#EXTINF:0,5 Канал
+https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/tv-5-chunks-3.m3u8?cdn=https://nmg-live.gcdn.co&token=mafDUem6t2tL04-EmOz7LOuQpe7rPRZWA_pjKeQk808.CMmUfUtH1DZUD0W7gCfl3kp3mOpMpwM2z4E1oWIJYXE.1613240880
+#EXTINF:0,Россия К
+https://a3569455795-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:0,Россия 24
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0,Карусель
+https://mhd.iptv2022.com/p/2Y-N69ptkO-a8ZTE1Dmzlg,1613325996/streaming/karusel/324/vh1w/playlist.m3u8
+#EXTINF:0,ОТР HD
+https://strm.yandex.ru/kal/otr/otr0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:0,Рен ТВ HD
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ren-tv/ren-tv-chunks-6.m3u8?cdn=https://nmg-live.gcdn.co&token=cCDhS5fzshvy1M7wSYP36cf34EOrdcGyWmMJbndfaNc.VCNFSVHC9k9YczBG4B6Sd-iMs6a5jkdC90rzpgqAmag.1612811144
+#EXTINF:0,Спас 
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,СТС HD
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc/ctc-chunks-6.m3u8?cdn=https://ctc-live.gcdn.co&token=g8Oxg8ji5s3rY3ZlUXAEsaJeOdbvQipOu2A_G4gygg4.inzNBU1W7Ctp9ZDgVg2Ef8JkK_uz6H1MaNwocWdCCmo.1612810953
+#EXTINF:0,Домашний HD
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-dom/ctc-dom-chunks-6.m3u8?cdn=https://edge02d.mediavitrina.ru&token=c09XD7UwcfftjXXzPBzzEut4eUvMt2R08e0jp3uDF2Y.uDuTJvilbPqn0orfWXhBLGalsNrny-tsUwYaOrYmEJI.1613240248
+#EXTINF:0,ТВ3 HD
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:0,Пятница HD
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:0,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:0,ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
+#EXTINF:0,Муз ТВ HD
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Че!
+https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-che/ctc-che-chunks-3.m3u8?cdn=https://ctclive.cdnvideo.ru&token=GF4nV9tFIA6ziWEf9GUVy_s2nKs5p22xaVdJVYGJYGQ.fPMETBBO9ni15ORwlJ3HIYjnshgFC8SgWXwAd16Oicw.1613244245
+#EXTINF:0,ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:0,СТС Love
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-love/ctc-love-chunks-3.m3u8?cdn=https://ctc-live.gcdn.co&token=KWp2yebUSvuSCtrMkE9GraQd2t1WOCXhas0ZYhOI2MQ.y60qH4eY4IIaat5vUJhn0Pm_Zu_HlDnCdsZd8T42Ows.1613244357
+#EXTINF:0,Суббота HD
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0,2x2 HD
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:0,Disney
+https://ivi-tv2-md5.cdnvideo.ru/jW1JfFQQyerTRtNxsr90IMsx7wR6n0y7JWqZE9JXHIghhF0kLcDS62313/Dw7xN9-hsPEwdv_K-C7psg,1613313179/live/ivi/disney/playlist_sdhigh.m3u8
+#EXTINF:0,Ю
+https://strm.yandex.ru/kal/utv/utv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,РБК
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
+#EXTINF:0,Спас
+https://mobdrm.mediavitrina.ru/hls-live1/streams/spas/spas-chunks-3.m3u8?cdn=https://edge02d.mediavitrina.ru&token=S3y9e77DTMlneQJ7f88PNC4lC87WOryphIAIpzWWdEk.2lfSNeuqpJGmLeJFSyuYdTrbtIB5HNKeXtua1WFA8og.1613243778
+#EXTINF:0,ТНТ Music HD
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,RU.TV HD
+http://rutv.gcdn.co/streams/1410_95/1080n/index.m3u8
+#EXTINF:0,Bridge TV
+https://plmgr-bridgemedia.cdnvideo.ru/bridge_tv/1/chunklist.m3u8?instance_id=06&subscriber_id=dcc10895b96971069dad0c29514a0f85&e=1613333414&session_id=3c3be7a15e594d4abffd4995055ee1f1&md5=n_uQ7VmxAdN0rtVL1wF3Jw
+#EXTINF:0,Bridge TV Русский Хит
+https://plmgr-bridgemedia.cdnvideo.ru/bridge_rus_hit/1/chunklist.m3u8?instance_id=06&subscriber_id=f98ae9c950ea3402f507a3debe5f6454&e=1613333636&session_id=990e6127d6794d8fb47d3350fe47810d&md5=Q52v7U6XotYykcC5H-914w
+#EXTINF:0,Известия HD
+https://mobdrm.mediavitrina.ru/hls-live2/streams/iz/iz-chunks-6.m3u8?cdn=https://nmg-live.gcdn.co&token=0ydyDHOvbNJAZdkzE7-CbG2wHL7ADMBAf0ZP_ImiSkQ.Y_4k4Ks-j4hewJl_rJnINmyDrzWWxr_50IwAdRYyGwE.1613251042
+#EXTINF:0,Europa Plus TV HD
+https://strm.yandex.ru/kal/europaplus/europaplus0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Bridge TV Deluxe HD
+https://plmgr-bridgemedia.cdnvideo.ru/bridge_hd/1/chunklist.m3u8?instance_id=06&subscriber_id=2529bd4b4adbd436aaf94f4a00a96180&e=1613333572&session_id=51452461331544fe86143a37b4dda1ae&md5=JQn0KS0gWHKAkbo3vGLoHw
+#EXTINF:0,RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Охотник и рыболов HD
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,О2ТВ HD
+https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Терра Инкогнита HD
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Смайлик ТВ
+https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Свое ТВ
+https://live.stv24.tv/svoetv/MQ_video.m3u8
+#EXTINF:0,AIVA
+https://strm.yandex.ru/kal/aiva/aiva0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,8 канал
+https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.m3u8
+#EXTINF:0,RT HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0,CGTN Russia
+https://ivi-live-cgtn.gcdn.co/jW1KTt3naJB1X5LBzp4iQo1d3nrTOCDSatQRdcBehI8Tta6VbtDZ14872/Ydkc21DNJBIvpR_j9faPIA,1613267298/4052-inadv-qidx-1k_v5.m3u8
