@@ -1,37 +1,84 @@
 #EXTM3U
 
-#EXTINF:0,LRT HD
+#EXTM3U url-tvg="http://epg.tvfor.pro/epgtv.xml"
+
+#EXTINF:0 group-title="LT",LRT HD
 udp://@239.255.14.64:1234
 
-#EXTINF:0,LNK 
+#EXTINF:0 group-title="LT",LNK HD
 udp://@239.255.14.63:1234
 
-#EXTINF:0,TV3 
+#EXTINF:0 group-title="LT",TV3 HD
 udp://@239.255.14.122:1234
 
-#EXTINF:0,BTV 
+#EXTINF:0 group-title="LT",BTV HD
 udp://@239.255.14.11:1234
 
-#EXTINF:0,Lietuvos Rytas HD
+#EXTINF:0 group-title="LT",Lietuvos Rytas HD
 udp://@239.255.14.67:1234
 
-#EXTINF:0,Delfi 
+#EXTINF:0 group-title="LT",TV6 HD
+udp://@239.255.14.112:1234
+
+#EXTINF:0 group-title="LT",Delfi HD
 udp://@239.255.14.48:1234
 
-#EXTINF:0,Info TV 
+#EXTINF:0 group-title="LT",Info TV HD
 udp://@239.255.14.52:1234
 
-#EXTINF:0,TV8
+#EXTINF:0 group-title="LT",TV8
 udp://@239.255.14.113:1234
 
-#EXTINF:0,TV1 
+#EXTINF:0 group-title="LT",TV1 HD
 udp://@239.255.14.116:1234
 
-#EXTINF:0,Liuks!
+#EXTINF:0 group-title="LT",Liuks!
 udp://@239.255.14.62:1234
 
-#EXTINF:0,LRT Plius HD
+#EXTINF:0 group-title="LT",LRT Plius HD
 udp://@239.255.14.65:1234
+
+#EXTINF:0 group-title="FILM",BCU VHS
+udp://@239.255.12.11:1234
+
+#EXTINF:0 group-title="FILM",BCU ACTION
+udp://@239.255.12.12:1234
+
+#EXTINF:0 group-title="FILM",BCU FANTASTIC
+udp://@239.255.12.13:1234
+
+#EXTINF:0 group-title="FILM",BCU FILMYSTIC
+udp://@239.255.12.14:1234
+
+#EXTINF:0 group-title="FILM",BCU HISTORY
+udp://@239.255.12.15:1234
+
+#EXTINF:0 group-title="FILM",BCU COMEDY
+udp://@239.255.12.16:1234
+
+#EXTINF:0 group-title="FILM",BCU CINEMA+
+udp://@239.255.12.18:1234
+
+#EXTINF:0 group-title="FILM",BCU CATASTROPHE
+udp://@239.255.12.19:1234
+
+#EXTINF:0 group-title="FILM",BCU Premiere
+udp://@239.255.12.21:1234
+
+#EXTINF:0 group-title="FILM",BCU Russian
+udp://@239.255.12.24:1234
+
+#EXTINF:0 group-title="FILM",BCU KINORATING
+udp://@239.255.12.55:1234
+
+#EXTINF:0 group-title="FILM",BCU KINORATING
+udp://@239.255.12.56:1234
+
+#EXTINF:0 group-title="FILM",BCU ROMANTIC
+udp://@239.255.12.57:1234
+
+#EXTINF:0 group-title="FILM",BCU MARVEL
+udp://@239.255.12.58:1234
 
 #EXTINF:0,TV1000 Premium HD
 udp://@239.255.14.120:1234
@@ -45,41 +92,8 @@ udp://@239.255.14.127:1234
 #EXTINF:0,TV3 Sport2 HD
 udp://@239.255.14.128:1234
 
-#EXTINF:0,BCU VHS
-udp://@239.255.12.11:1234
-
-#EXTINF:0,BCU ACTION
-udp://@239.255.12.12:1234
-
-#EXTINF:0,BCU FILMYSTIC
-udp://@239.255.12.14:1234
-
-#EXTINF:0,BCU HISTORY
-udp://@239.255.12.15:1234
-
-#EXTINF:0,BCU COMEDY
-udp://@239.255.12.16:1234
-
-#EXTINF:0,BCU CINEMA
-udp://@239.255.12.17:1234
-
-#EXTINF:0,BCU CINEMA+
-udp://@239.255.12.18:1234
-
-#EXTINF:0,BCU CATASTROPHE
-udp://@239.255.12.19:1234
-
-#EXTINF:0,BCU KINORATING
-udp://@239.255.12.20:1234
-
-#EXTINF:0,BCU Premiere
-udp://@239.255.12.21:1234
-
 #EXTINF:0,WORLD of MUSIC
 udp://@239.255.12.22:1234
-
-#EXTINF:0,BCU Russian
-udp://@239.255.12.24:1234
 
 #EXTINF:0,Animal Planet HD
 udp://@239.255.14.3:1234
@@ -197,9 +211,6 @@ udp://@239.255.14.110:1234
 
 #EXTINF:0,Travel Channel HD
 udp://@239.255.14.111:1234
-
-#EXTINF:0,TV6 HD
-udp://@239.255.14.112:1234
 
 #EXTINF:0,TVP Polonia HD
 udp://@239.255.14.114:1234
