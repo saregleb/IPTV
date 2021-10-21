@@ -80,19 +80,19 @@ udp://@239.255.12.57:1234
 #EXTINF:0 group-title="FILM",BCU MARVEL
 udp://@239.255.12.58:1234
 
-#EXTINF:0,TV1000 Premium HD
+#EXTINF:0 group-title="FILM",TV1000 Premium HD
 udp://@239.255.14.120:1234
 
-#EXTINF:0,TV3 Sport
+#EXTINF:0 group-title="SPORT",TV3 Sport
 udp://@239.255.14.126:1234
 
-#EXTINF:0,TV3 Sport HD
+#EXTINF:0 group-title="SPORT",TV3 Sport HD
 udp://@239.255.14.127:1234
 
-#EXTINF:0,TV3 Sport2 HD
+#EXTINF:0 group-title="SPORT",TV3 Sport2 HD
 udp://@239.255.14.128:1234
 
-#EXTINF:0,WORLD of MUSIC
+#EXTINF:0 group-title="MUSIC",WORLD of MUSIC
 udp://@239.255.12.22:1234
 
 #EXTINF:0,Animal Planet HD
@@ -104,16 +104,16 @@ udp://@239.255.14.22:1234
 #EXTINF:0,DTX HD
 udp://@239.255.14.18:1234
 
-#EXTINF:0,dom kino  HD
+#EXTINF:0 group-title="FILM",dom kino  HD
 udp://@239.255.14.27:1234
 
 #EXTINF:0,Euronews English HD
 udp://@239.255.14.33:1234
 
-#EXTINF:0,Eurosport 2 HD
+#EXTINF:0 group-title="SPORT",Eurosport 2 HD
 udp://@239.255.14.36:1234
 
-#EXTINF:0,Eurosport HD
+#EXTINF:0 group-title="SPORT",Eurosport HD
 udp://@239.255.14.37:1234
 
 #EXTINF:0,Filmzone MPEG2 (Main)
@@ -128,13 +128,13 @@ udp://@239.255.14.45:1234
 #EXTINF:0,ID HD
 udp://@239.255.14.50:1234
 
-#EXTINF:0,Kino Comedy HD
+#EXTINF:0 group-title="FILM",Kino Comedy HD
 udp://@239.255.14.57:1234
 
-#EXTINF:0,Kinomiks HD
+#EXTINF:0 group-title="FILM",Kinomiks HD
 udp://@239.255.14.58:1234
 
-#EXTINF:0,Kinoseria HD
+#EXTINF:0 group-title="FILM",Kinoseria HD
 udp://@239.255.14.59:1234
 
 #EXTINF:0,Kuhnya TV HD
@@ -146,22 +146,22 @@ udp://@239.255.14.61:1234
 #EXTINF:0,MMA TV HD
 udp://@239.255.14.68:1234
 
-#EXTINF:0,MCM TOP HD
+#EXTINF:0 group-title="MUSIC",MCM TOP HD
 udp://@239.255.14.69:1234
 
-#EXTINF:0,MTV Europe
+#EXTINF:0 group-title="MUSIC",MTV Europe
 udp://@239.255.14.71:1234
 
-#EXTINF:0,MTV Live HD
+#EXTINF:0 group-title="MUSIC",MTV Live HD
 udp://@239.255.14.74:1234
 
-#EXTINF:0,Muzyka Pervogo
+#EXTINF:0 group-title="MUSIC",Muzyka Pervogo
 udp://@239.255.14.76:1234
 
-#EXTINF:0,Nashe Lubimoe Kino
+#EXTINF:0 group-title="FILM",Nashe Lubimoe Kino
 udp://@239.255.14.77:1234
 
-#EXTINF:0,Nase Novoe Kino HD
+#EXTINF:0 group-title="FILM",Nase Novoe Kino HD
 udp://@239.255.14.78:1234
 
 #EXTINF:0,National Geographic Wild
@@ -173,7 +173,7 @@ udp://@239.255.14.80:1234
 #EXTINF:0,NTV Mir
 udp://@239.255.14.83:1234
 
-#EXTINF:0,NTV-Style
+#EXTINF:0group-title="MUSIC" ,NTV-Style
 udp://@239.255.14.86:1234
 
 #EXTINF:0,Pro 7
@@ -197,13 +197,13 @@ udp://@239.255.14.101:1234
 #EXTINF:0,Sky News International
 udp://@239.255.14.103:1234
 
-#EXTINF:0,Sony Channel HD
+#EXTINF:0 group-title="FILM",Sony Channel HD
 udp://@239.255.14.104:1234
 
-#EXTINF:0,Sony Turbo Baltic HD
+#EXTINF:0 group-title="FILM",Sony Turbo Baltic HD
 udp://@239.255.14.105:1234
 
-#EXTINF:0,Sport 1 HD
+#EXTINF:0 group-title="SPORT",Sport 1 HD
 udp://@239.255.14.107:1234
 
 #EXTINF:0,PlatinumHD
@@ -218,7 +218,7 @@ udp://@239.255.14.114:1234
 #EXTINF:0,TV3 Film
 udp://@239.255.14.119:1234
 
-#EXTINF:0,TV1000 Russkoje Kino
+#EXTINF:0 group-title="FILM",TV1000 Russkoje Kino
 udp://@239.255.14.121:1234
 
 #EXTINF:0,TVCI
@@ -248,10 +248,10 @@ udp://@239.255.14.136:1234
 #EXTINF:0,THT 4
 udp://@239.255.14.138:1234
 
-#EXTINF:0,Epic Drama HD
+#EXTINF:0 group-title="FILM",Epic Drama HD
 udp://@239.255.14.139:1234
 
-#EXTINF:0,Vip Comedy HD
+#EXTINF:0 group-title="FILM",Vip Comedy HD
 udp://@239.255.14.140:1234
 
 #EXTINF:0,Smartzone HD
@@ -269,10 +269,10 @@ udp://@239.255.14.144:1234
 #EXTINF:0,DocuBox HD
 udp://@239.255.14.145:1234
 
-#EXTINF:0,FilmBox
+#EXTINF:0 group-title="FILM",FilmBox
 udp://@239.255.14.146:1234
 
-#EXTINF:0,FilmBox ArtHouse
+#EXTINF:0 group-title="FILM",FilmBox ArtHouse
 udp://@239.255.14.147:1234
 
 #EXTINF:0,AMC
@@ -332,7 +332,7 @@ udp://@239.255.14.24:1234
 #EXTINF:0,Disney XD
 udp://@239.255.14.25:1234
 
-#EXTINF:0,Dom Kino
+#EXTINF:0 group-title="FILM",Dom Kino
 udp://@239.255.14.26:1234
 
 #EXTINF:0,Duck TV
@@ -359,7 +359,7 @@ udp://@239.255.14.46:1234
 #EXTINF:0,ID
 udp://@239.255.14.49:1234
 
-#EXTINF:0,Indijskoye Kino
+#EXTINF:0 group-title="FILM",Indijskoye Kino
 udp://@239.255.14.51:1234
 
 #EXTINF:0,JimJam
@@ -380,13 +380,13 @@ udp://@239.255.14.66:1234
 #EXTINF:0,Mezzo
 udp://@239.255.14.70:1234
 
-#EXTINF:0,MTV Dance
+#EXTINF:0 group-title="MUSIC",MTV Dance
 udp://@239.255.14.72:1234
 
-#EXTINF:0,MTV Hits
+#EXTINF:0 group-title="MUSIC",MTV Hits
 udp://@239.255.14.73:1234
 
-#EXTINF:0,MTV Rocks
+#EXTINF:0 group-title="MUSIC",MTV Rocks
 udp://@239.255.14.75:1234
 
 #EXTINF:0,Nickelodeon
@@ -419,13 +419,13 @@ udp://@239.255.14.91:1234
 #EXTINF:0,RBK TV
 udp://@239.255.14.94:1234
 
-#EXTINF:0,Rodnoje Kino
+#EXTINF:0 group-title="FILM",Rodnoje Kino
 udp://@239.255.14.96:1234
 
 #EXTINF:0,RTR Planeta
 udp://@239.255.14.98:1234
 
-#EXTINF:0,SPORT1
+#EXTINF:0group-title="SPORT" ,SPORT1
 udp://@239.255.14.106:1234
 
 #EXTINF:0,Telekafe
@@ -437,10 +437,10 @@ udp://@239.255.14.109:1234
 #EXTINF:0,TV XXI
 udp://@239.255.14.115:1234
 
-#EXTINF:0,TV1000 East
+#EXTINF:0 group-title="FILM",TV1000 East
 udp://@239.255.14.117:1234
 
-#EXTINF:0,TV1000 Action
+#EXTINF:0 group-title="FILM",TV1000 Action
 udp://@239.255.14.118:1234
 
 #EXTINF:0,Viasat Explore
