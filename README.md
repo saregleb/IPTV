@@ -7,7 +7,7 @@ Playlist failas: [SareGleb_TV](https://raw.githubusercontent.com/saregleb/IPTV/m
 
 EPG gidas: [epg.xml](http://epg.tvfor.pro/epgtv.xml).
 
-Suspaustas EPG gidas: [epg.xml.gz](https://raw.githubusercontent.com/saregleb/IPTV/master/epg.xml.gz).
+Suspaustas EPG gidas: [epg.xml.gz](http://epg.tvfor.pro/epgtv.xml.gz).
 
 Tiesiog nukopijuokite playlist'o bei EPG gido nuorodas ir įdėkite į savo IPTV įrenginį (Smart TV, TV box ar kompiuterį). Atsiradus naujiems pakeitimams kanalų sąraše ar EPG jie automatiškai atsiras ir jūsų IPTV įrenginyje.
 
