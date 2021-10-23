@@ -3,7 +3,7 @@ IPTV su EPG gidu.
 
 
 ## Kaip pradėti naudotis?
-Playlist failas: [iptv-plain.m3u](https://raw.githubusercontent.com/saregleb/IPTV/master/iptv.m3u).
+Playlist failas: [SareGleb_TV](https://raw.githubusercontent.com/saregleb/IPTV/master/SareGleb_TV).
 
 EPG gidas: [epg.xml](https://raw.githubusercontent.com/saregleb/IPTV/master/epg.xml).
 
