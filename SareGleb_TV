@@ -51,10 +51,10 @@ udp://@239.255.15.127:1234
 #EXTINF:-1 group-title="Sportas" tvg-id="balticum-platinum" tvg-logo=",TVPlay Sports+ HD
 udp://@239.255.15.128:1234
 
-#EXTINF:-1 group-title="Sportas" Go3 Sport 1 HD LT
+#EXTINF:-1, Go3 Sport 1 HD LT
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650601&extension=m3u8&play
 
-#EXTINF:-1 group-title="Sportas" Go3 Sport 1 HD LT
+#EXTINF:-1, Go3 Sport 1 HD LT
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650600&extension=m3u8&play
 
 #EXTINF:-1 group-title="Sportas" Sport 1 HD LT
