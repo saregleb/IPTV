@@ -3,50 +3,38 @@
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lrt.png",LRT Televizija HD
 udp://@239.255.15.64:1234
 
-
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lnk.png",LNK HD
 udp://@239.255.15.63:1234
-
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="http://epg.it999.ru/img/4238.png",TV3 HD
 udp://@239.255.14.122:1234
 
-
 #EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/btv.png",BTV HD
 udp://@239.255.15.11:1234
-
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-rytas-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lietuvos-rytas-tv.png",Lietuvos Rytas TV HD
 udp://@239.255.15.67:1234
 
-
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv6" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv6.png",TV6 HD
 udp://@239.255.15.112:1234
-
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/info-tv.png",Info TV HD
 udp://@239.255.15.52:1234
 
-
 #EXTINF:-1 group-title="Lietuviški" tvg-id="delfi tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/delfi tv.png",DELFI TV
 udp://@239.255.15.48:1234
-
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv8" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv8.png",TV8
 udp://@239.255.15.113:1234
 
-
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv1" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv1.png",TV1 HD
 udp://@239.255.15.116:1234
-
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="liuks" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/liuks.png",Liuks!
 udp://@239.255.15.62:1234
 
-
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-plius" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lrt-plius.png",LRT Plius HD
 udp://@239.255.15.65:1234
-
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/balticum-tv.png",Balticum TV
 udp://@239.255.15.5:1234
@@ -72,8 +60,260 @@ udp://@239.255.15.128:1234
 #EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-platinum" tvg-logo="
 
 
-#EXTINF:-1
+#EXTINF:-1,tva-x1
+https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
 
+#EXTINF:-1,tva-x2
+http://nvid101.cdnii.com/2019/1/20191371-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x3
+https://ovhv47.twincdn.com/videos/43/43394/43394_720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x4
+http://nvid101.cdnii.com/2019/1/20191372-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x5
+https://ovhv47.twincdn.com/videos/43/43395/43395_720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x6
+http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x7
+http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x8
+http://nvid101.cdnii.com/2018/0/20180460-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x9
+http://nvid101.cdnii.com/2018/0/20180462-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x10
+http://nvid101.cdnii.com/2018/0/20180463-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x11
+http://nvid101.cdnii.com/2018/0/20180464-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x12
+http://nvid101.cdnii.com/2018/0/20180466-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x13
+http://nvid101.cdnii.com/2018/0/20180469-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x14
+http://nvid101.cdnii.com/2018/0/20180471-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x15
+http://nvid101.cdnii.com/2018/0/20180472-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x16
+http://nvid101.cdnii.com/2018/0/20180476-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x17
+http://nvid101.cdnii.com/2018/0/20180647-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x18
+http://nvid101.cdnii.com/2018/0/20180648-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x19
+http://nvid101.cdnii.com/2018/0/20180649-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x20
+http://nvid101.cdnii.com/2018/0/20180650-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x21
+http://nvid101.cdnii.com/2018/0/20180651-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x22
+http://nvid101.cdnii.com/2018/0/20180652-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x23
+http://nvid101.cdnii.com/2018/0/20180654-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x24
+http://nvid101.cdnii.com/2018/0/20180655-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x25
+http://nvid101.cdnii.com/2018/0/20180657-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x26
+http://nvid101.cdnii.com/2018/0/20180659-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x27
+http://nvid101.cdnii.com/2018/0/20180660-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x28
+http://nvid101.cdnii.com/2018/0/20180663-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x29
+http://nvid101.cdnii.com/2018/1/20181597-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x30
+http://nvid101.cdnii.com/2018/1/20181612-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x31
+http://nvid101.cdnii.com/2018/1/20181649-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x32
+http://nvid101.cdnii.com/2018/1/20181652-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x33
+http://nvid101.cdnii.com/2018/2/20182599-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x34
+http://nvid101.cdnii.com/2018/2/20182610-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x35
+http://nvid101.cdnii.com/2018/2/20182611-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x36
+http://nvid101.cdnii.com/2018/2/20182611-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x37
+http://nvid101.cdnii.com/2018/2/20182612-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x38
+http://nvid101.cdnii.com/2018/2/20182613-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x39
+http://nvid101.cdnii.com/2018/2/20182614-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x40
+http://nvid101.cdnii.com/2018/2/20182615-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x41
+http://nvid101.cdnii.com/2018/2/20182616-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x42
+http://nvid101.cdnii.com/2018/2/20182617-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x229
+http://nvid101.cdnii.com/2019/0/20190415-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x230
+http://nvid101.cdnii.com/2019/0/20190416-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x231
+http://nvid101.cdnii.com/2019/0/20190418-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x232
+http://nvid101.cdnii.com/2019/0/20190420-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x233
+http://nvid101.cdnii.com/2019/0/20190421-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x234
+http://nvid101.cdnii.com/2019/0/20190422-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x235
+http://nvid101.cdnii.com/2019/0/20190423-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x236
+http://nvid101.cdnii.com/2019/0/20190424-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x237
+http://nvid101.cdnii.com/2019/0/20190425-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x238
+http://nvid101.cdnii.com/2019/0/20190426-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x239
+http://nvid101.cdnii.com/2019/0/20190427-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x240
+http://nvid101.cdnii.com/2018/2/20182618-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x241
+http://nvid101.cdnii.com/2018/2/20182619-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x242
+http://nvid101.cdnii.com/2018/2/20182620-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x243
+http://nvid101.cdnii.com/2018/2/20182621-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x244
+http://nvid101.cdnii.com/2018/2/20182622-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x245
+http://nvid101.cdnii.com/2018/2/20182623-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x246
+http://nvid101.cdnii.com/2018/2/20182624-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x247
+http://nvid101.cdnii.com/2018/2/20182625-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x248
+http://nvid101.cdnii.com/2018/2/20182626-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x249
+http://nvid101.cdnii.com/2018/2/20182627-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x250
+http://nvid101.cdnii.com/2018/2/20182628-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x251
+http://nvid101.cdnii.com/2018/2/20182629-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x252
+http://nvid101.cdnii.com/2018/2/20182630-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x253
+http://nvid101.cdnii.com/2018/2/20182631-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x254
+http://nvid101.cdnii.com/2018/2/20182632-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x255
+http://nvid101.cdnii.com/2018/2/20182633-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x256
+http://nvid101.cdnii.com/2018/2/20182634-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x257
+http://nvid101.cdnii.com/2018/2/20182635-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x258
+http://nvid101.cdnii.com/2018/2/20182636-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x259
+http://nvid101.cdnii.com/2018/2/20182637-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x260
+http://nvid101.cdnii.com/2018/2/20182638-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x261
+http://nvid101.cdnii.com/2018/2/20182639-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x262
+https://v6794.cdn-d5.com/a951fbe04aab1872ccbf3969af42530bb5b9175d/2020/1/20201721-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x263
+http://nvid101.cdnii.com/2021/0/20210960-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x264
+http://nvid101.cdnii.com/2021/0/20210961-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x265
+http://nvid101.cdnii.com/2021/0/20210962-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x266
+http://nvid101.cdnii.com/2021/0/20210963-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x267
+http://nvid101.cdnii.com/2021/0/20210964-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x268
+http://nvid101.cdnii.com/2021/0/20210965-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x269
+http://nvid101.cdnii.com/2021/0/20210966-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x270
+http://nvid101.cdnii.com/2021/0/20210967-720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1,tva-x271
+http://nvid101.cdnii.com/2021/0/20210968-720p.mp4?key_iptv.org.ua
 
 
 
