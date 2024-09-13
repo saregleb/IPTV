@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.tvfor.pro/epgtv.xml" 
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" 
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lrt.png",LRT Televizija HD
 udp://@239.255.15.64:1234
