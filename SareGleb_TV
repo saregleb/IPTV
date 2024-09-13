@@ -6,37 +6,37 @@ udp://@239.255.15.64:1234
 #EXTINF:-1,LNK (lt)
 udp://@239.255.15.63:1234
 
-#EXTINF:-1,TV3 HD
+#EXTINF:-1,TV3 (lt)
 udp://@239.255.14.122:1234
 
-#EXTINF:-1,BTV HD
+#EXTINF:-1,BTV (lt)
 udp://@239.255.15.11:1234
 
-#EXTINF:-1,Lietuvos Rytas TV HD
+#EXTINF:-1,Lietuvos Rytas TV (lt)
 udp://@239.255.15.67:1234
 
-#EXTINF:-1,TV6 HD
+#EXTINF:-1,TV6 (lt)
 udp://@239.255.15.112:1234
 
-#EXTINF:-1,Info TV HD
+#EXTINF:-1,Info TV (lt)
 udp://@239.255.15.52:1234
 
-#EXTINF:-1,DELFI TV
+#EXTINF:-1,DELFI TV (lt)
 udp://@239.255.15.48:1234
 
-#EXTINF:-1,TV8
+#EXTINF:-1,TV8 (lt)
 udp://@239.255.15.113:1234
 
-#EXTINF:-1,TV1 HD
+#EXTINF:-1,TV1 (lt)
 udp://@239.255.15.116:1234
 
-#EXTINF:-1,Liuks!
+#EXTINF:-1,Liuks! (lt)
 udp://@239.255.15.62:1234
 
-#EXTINF:-1,LRT Plius HD
+#EXTINF:-1,LRT Plius (lt)
 udp://@239.255.15.65:1234
 
-#EXTINF:-1,Balticum TV
+#EXTINF:-1,Balticum TV (lt)
 udp://@239.255.15.5:1234
 
 #EXTINF:-1,Balticum Auksinis
