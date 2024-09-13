@@ -1,54 +1,54 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" 
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lrt.png",LRT Televizija HD
+#EXTINF:-1,LRT Televizija HD
 udp://@239.255.15.64:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lnk.png",LNK HD
+#EXTINF:-1,LNK HD
 udp://@239.255.15.63:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="http://epg.it999.ru/img/4238.png",TV3 HD
+#EXTINF:-1,TV3 HD
 udp://@239.255.14.122:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/btv.png",BTV HD
+#EXTINF:-1,BTV HD
 udp://@239.255.15.11:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-rytas-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lietuvos-rytas-tv.png",Lietuvos Rytas TV HD
+#EXTINF:-1,Lietuvos Rytas TV HD
 udp://@239.255.15.67:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv6.png",TV6 HD
+#EXTINF:-1,TV6 HD
 udp://@239.255.15.112:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/info-tv.png",Info TV HD
+#EXTINF:-1,Info TV HD
 udp://@239.255.15.52:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="delfi tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/delfi tv.png",DELFI TV
+#EXTINF:-1,DELFI TV
 udp://@239.255.15.48:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv8" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv8.png",TV8
+#EXTINF:-1,TV8
 udp://@239.255.15.113:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv1.png",TV1 HD
+#EXTINF:-1,TV1 HD
 udp://@239.255.15.116:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="liuks" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/liuks.png",Liuks!
+#EXTINF:-1,Liuks!
 udp://@239.255.15.62:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-plius" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/lrt-plius.png",LRT Plius HD
+#EXTINF:-1,LRT Plius HD
 udp://@239.255.15.65:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/balticum-tv.png",Balticum TV
+#EXTINF:-1,Balticum TV
 udp://@239.255.15.5:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-auksinis" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/balticum-auksinis.png",Balticum Auksinis
+#EXTINF:-1,Balticum Auksinis
 udp://@239.255.15.4:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-platinum" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/balticum-platinum.png",Balticum Platinum
+#EXTINF:-1,Balticum Platinum
 udp://@239.255.12.4:1234
 
-#EXTINF:-1 group-title="Sportas" tvg-id="tv3-sport" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/tv3-sport.png",TVPlay Sports HD
+#EXTINF:-1,TVPlay Sports HD
 udp://@239.255.15.127:1234
 
-#EXTINF:-1 group-title="Sportas" tvg-id="balticum-platinum" tvg-logo=",TVPlay Sports+ HD
+#EXTINF:-1,TVPlay Sports+ HD
 udp://@239.255.15.128:1234
 
 
