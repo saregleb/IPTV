@@ -51,42 +51,6 @@ udp://@239.255.15.127:1234
 #EXTINF:-1,TVPlay Sports+ HD
 udp://@239.255.15.128:1234
 
-#EXTINF:-1, Go3 Sport 1 LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650601&extension=m3u8&play
-#EXTINF:-1, Go3 Sport 1 LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650600&extension=m3u8&play
-#EXTINF:-1, Sport 1 LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650608&extension=m3u8&play
-#EXTINF:-1, Go3 Films HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=547216&extension=m3u8&play
-#EXTINF:-1, Go3 Films HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=666074&extension=m3u8&play
-#EXTINF:-1, BALTICUM Platinum HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=547195&extension=m3u8&play
-#EXTINF:-1, BALTICUM Platinum HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=804497&extension=m3u8&play
-#EXTINF:-1, LRT Plius HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=547185&extension=m3u8&play
-#EXTINF:-1, LNK HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=547189&extension=m3u8&play
-#EXTINF:-1, TV3 HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650602&extension=m3u8&play
-#EXTINF:-1, BTV HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=547191&extension=m3u8&play
-#EXTINF:-1, BTV HD 
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=804470&extension=m3u8&play
-#EXTINF:-1, Lietuvos rytas HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=650607&extension=m3u8&play
-#EXTINF:-1, Lietuvos rytas HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=547201&extension=m3u8&play
-#EXTINF:-1, TV6 HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=666078&extension=m3u8&play
-#EXTINF:-1, TV6 HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=804493&extension=m3u8&play
-#EXTINF:-1, TV1 HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=666070&extension=m3u8&play
-#EXTINF:-1, TV8 HD LT
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:7d:9f:f0&stream=804475&extension=m3u8&play
 
 
 
