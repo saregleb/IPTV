@@ -5,7 +5,7 @@ udp://@239.255.15.64:1234
 udp://@239.255.15.63:1234
 #EXTINF:0 tvg-id="tv3-lt" group-title="Channels",TV3 HD
 udp://@239.255.15.122:1234
-#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV HD
+#EXTINF:0 tvg-id="baltijos-lt" tvg-logo="http://tvfor.pro/img/images/Chanels/baltijos-tv-lt.png" group-title="Channels",BTV HD
 udp://@239.255.15.11:1234
 #EXTINF:0 tvg-id="rytas-lt" group-title="Channels",Lietuvos Rytas HD
 udp://@239.255.15.67:1234
