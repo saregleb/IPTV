@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" 
 
-#EXTINF:0,LRT HD
+#EXTINF:0,LRT HD tvg-logo="https://blinktv.cc/ico/BCUKinorating.png"
 udp://@239.255.15.64:1234
 
 #EXTINF:0,LNK 
