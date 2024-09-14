@@ -9,7 +9,7 @@ udp://@239.255.15.63:1234
 #EXTINF:0,TV3 
 udp://@239.255.14.122:1234
 
-#EXTINF:0  type="stream" logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/btv-lt.png", BTV HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/btv-lt.png", BTV HD
 udp://@239.255.15.11:1234
 
 #EXTINF:0,Lietuvos Rytas 
