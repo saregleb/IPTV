@@ -1,54 +1,54 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" 
 
-#EXTINF:-1,LRT Televizija (lt)
+#EXTINF:0,LRT HD
 udp://@239.255.15.64:1234
 
-#EXTINF:-1,LNK (lt)
+#EXTINF:0,LNK 
 udp://@239.255.15.63:1234
 
-#EXTINF:-1,TV3 (lt)
+#EXTINF:0,TV3 
 udp://@239.255.14.122:1234
 
-#EXTINF:-1,BTV (lt)
+#EXTINF:0,BTV 
 udp://@239.255.15.11:1234
 
-#EXTINF:-1,Lietuvos Rytas TV (lt)
+#EXTINF:0,Lietuvos Rytas 
 udp://@239.255.15.67:1234
 
-#EXTINF:-1,TV6 (lt)
+#EXTINF:0,TV6 
 udp://@239.255.15.112:1234
 
-#EXTINF:-1,Info TV (lt)
+#EXTINF:0,Info TV 
 udp://@239.255.15.52:1234
 
-#EXTINF:-1,DELFI TV (lt)
+#EXTINF01,DELFI TV 
 udp://@239.255.15.48:1234
 
-#EXTINF:-1,TV8 (lt)
+#EXTINF:0,TV8 
 udp://@239.255.15.113:1234
 
-#EXTINF:-1,TV1 (lt)
+#EXTINF:0,TV1 
 udp://@239.255.15.116:1234
 
-#EXTINF:-1,Liuks! (lt)
+#EXTINF:0,Liuks!
 udp://@239.255.15.62:1234
 
-#EXTINF:-1,LRT Plius (lt)
+#EXTINF:0,LRT Plius 
 udp://@239.255.15.65:1234
 
-#EXTINF:-1,Balticum (lt)
+#EXTINF:0,Balticum 
 udp://@239.255.15.5:1234
 
-#EXTINF:-1,Balticum Auksinis
+#EXTINF:0,Balticum Auksinis
 udp://@239.255.15.4:1234
 
-#EXTINF:-1,Balticum Platinum
+#EXTINF:0,Balticum Platinum
 udp://@239.255.12.4:1234
 
-#EXTINF:-1,TVPlay Sports HD
+#EXTINF:0,TVPlay Sports HD
 udp://@239.255.15.127:1234
 
-#EXTINF:-1,TVPlay Sports+ HD
+#EXTINF:0,TVPlay Sports+ HD
 udp://@239.255.15.128:1234
 
 
