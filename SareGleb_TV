@@ -9,7 +9,7 @@ udp://@239.255.15.63:1234
 #EXTINF:0,TV3 
 udp://@239.255.14.122:1234
 
-#EXTINF:0,BTV 
+#EXTINF:0  type="stream" channelId="948" logo="https://share.ottclub.tv/images/35.png", BTV HD
 udp://@239.255.15.11:1234
 
 #EXTINF:0,Lietuvos Rytas 
