@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" 
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" 
 
 #EXTINF:0,LRT HD
 udp://@239.255.15.64:1234
