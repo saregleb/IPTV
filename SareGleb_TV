@@ -1,5 +1,5 @@
-#EXTM3U 
-#EXTINF:0 tvg-id="LRTTV.lt" group-title="Channels",LRT HD
+#EXTM3U
+#EXTINF:0 tvg-id="LRTTV.lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/lrt-tv-lt.png" group-title="Channels",LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:0 tvg-id="LNK.lt" group-title="Channels",LNK HD
 udp://@239.255.15.63:1234
