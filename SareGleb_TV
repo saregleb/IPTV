@@ -5,7 +5,7 @@ udp://@239.255.15.64:1234
 udp://@239.255.15.63:1234
 #EXTINF:0 tvg-id="tv3-lt" group-title="Channels",TV3 HD
 udp://@239.255.15.122:1234
-#EXTINF:0 tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/btv-lt.png" 
+#EXTINF:0 tvg-id="BTV HD" group-title="Channels",BTV HD 
 udp://@239.255.15.11:1234
 #EXTINF:0 tvg-id="rytas-lt" group-title="Channels",Lietuvos Rytas HD
 udp://@239.255.15.67:1234
