@@ -3,11 +3,11 @@ IPTV su EPG gidu.
 
 
 ## Kaip pradėti naudotis?
-Playlist failas: [SareGleb_TV](https://raw.githubusercontent.com/saregleb/IPTV/master/SareGleb_TV).
+Playlist failas:SareGleb_TV https://raw.githubusercontent.com/saregleb/IPTV/master/SareGleb_TV
 
-EPG gidas: [epg.xml](http://iptvx.one/epg/epg.xml).
+EPG gidas: epg.xml http://epg.tvfor.pro/epgtv.xml
 
-Suspaustas EPG gidas: [epg.xml.gz](http://iptvx.one/epg/epg.xml.gz).
+Suspaustas EPG gidas: epg.xml.gz http://epg.tvfor.pro/epgtv.xml.gz
 
 Tiesiog nukopijuokite playlist'o bei EPG gido nuorodas ir įdėkite į savo IPTV įrenginį (Smart TV, TV box ar kompiuterį). Atsiradus naujiems pakeitimams kanalų sąraše ar EPG jie automatiškai atsiras ir jūsų IPTV įrenginyje.
 
