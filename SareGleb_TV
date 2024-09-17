@@ -11,13 +11,13 @@ udp://@239.255.15.11:1234
 udp://@239.255.15.67:1234
 #EXTINF:0 tvg-id="tv6-lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/tv6-lt.png" group-title="Channels",TV6 HD
 udp://@239.255.15.112:1234
-#EXTINF:0 tvg-id="info-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/info-tv-lt.png" group-title="Channels",Info TV HD
+#EXTINF:0 tvg-id="info-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/InfoTV.lt.png" group-title="Channels",Info TV HD
 udp://@239.255.15.52:1234
 #EXTINF:0 tvg-id="tv8-lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/tv8-lt.png" group-title="Channels",TV8
 udp://@239.255.15.113:1234
 #EXTINF:0 tvg-id="liuks" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/liuks.png" group-title="Channels",Liuks!
 udp://@239.255.15.62:1234
-#EXTINF:0 tvg-id="DelfiTV.lt" tvg-logo="" group-title="Channels",DELFI TV
+#EXTINF:0 tvg-id="DelfiTV.lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/DelfiTV.lt.png" group-title="Channels",DELFI TV
 udp://@239.255.15.48:1234
 #EXTINF:0 tvg-id="lrtkult" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/lrt-plius-lt.png" group-title="Channels",LRT Plius HD
 udp://@239.255.15.65:1234
