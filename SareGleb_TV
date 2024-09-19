@@ -3,7 +3,7 @@
 udp://@239.255.15.64:1234
 #EXTINF:-1 tvg-id="LNK.lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/lnk-lt.png" group-title="Channels",LNK HD
 udp://@239.255.15.63:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/TV3Lithuania.lt.png" group-title="Channels",TV3 
+#EXTINF:-1 tvg-id="TV3-lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/TV3Lithuania.lt.png" group-title="Channels",TV3 HD 
 udp://@239.255.15.122:1234
 #EXTINF:-1 tvg-id="BTV.lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/BTV.lt.png" group-title="Channels",BTV HD 
 udp://@239.255.15.11:1234
