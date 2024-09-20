@@ -13,7 +13,7 @@ udp://@239.255.15.67:1234
 udp://@239.255.15.112:1234
 #EXTINF:-1 tvg-id="info-tv" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/InfoTV.lt.png" group-title="Channels",Info TV HD
 udp://@239.255.15.52:1234
-#EXTINF:-1 tvg-id="tv8-lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/TV_logos/tv8-lt.png" group-title="Channels",TV8
+#EXTINF:-1 tvg-id="tv8-lt" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/images/TV8Lithuania.lt.png" group-title="Channels",tv8-lt
 udp://@239.255.15.113:1234
 #EXTINF:-1 tvg-id="liuks" tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/master/images/liuks.png" group-title="Channels",Liuks!
 udp://@239.255.15.62:1234
