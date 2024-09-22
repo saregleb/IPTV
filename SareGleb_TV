@@ -1,63 +1,63 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/TV_logos/lrt_televizija.png" group-title="Channels",LRT TV
 udp://@239.255.15.64:1234
-#EXTINF:-1 tvg-id="LNK.lt" tvg-logo="" group-title="Channels",LNK
+#EXTINF:-1 tvg-logo="" group-title="Channels",LNK
 udp://@239.255.15.63:1234
-#EXTINF:-1 tvg-id="tv3-lt" tvg-logo="" group-title="Channels",TV3
+#EXTINF:-1 tvg-logo="" group-title="Channels",TV3
 udp://@239.255.15.122:1234
-#EXTINF:-1 tvg-id="baltijos-lt" tvg-logo="" group-title="Channels",BTV  
+#EXTINF:-1 tvg-logo="" group-title="Channels",BTV  
 udp://@239.255.15.11:1234
-#EXTINF:-1 tvg-id="lietuvos_rytas-tv" tvg-logo="" group-title="Channels",Lietuvos Rytas HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",Lietuvos Rytas HD
 udp://@239.255.15.67:1234
-#EXTINF:-1 tvg-id="tv6" tvg-logo="" group-title="Channels",TV6 HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",TV6 HD
 udp://@239.255.15.112:1234
-#EXTINF:-1 tvg-id="info_tv" tvg-logo="" group-title="Channels",Info TV HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",Info TV HD
 udp://@239.255.15.52:1234
-#EXTINF:-1 tvg-id="tv8" tvg-logo="" group-title="Channels",TV8 HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",TV8 HD
 udp://@239.255.15.113:1234
-#EXTINF:-1 tvg-id="liuks" tvg-logo="" group-title="Channels",Liuks!
+#EXTINF:-1 tvg-logo="" group-title="Channels",Liuks!
 udp://@239.255.15.62:1234
-#EXTINF:-1 tvg-id="delfi_tv" tvg-logo="" group-title="Channels",DELFI TV
+#EXTINF:-1 tvg-logo="" group-title="Channels",DELFI TV
 udp://@239.255.15.48:1234
-#EXTINF:-1 tvg-id="lrt_plius" tvg-logo="" group-title="Channels",LRT Plius HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",LRT Plius HD
 udp://@239.255.15.65:1234
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Channels",TV1 HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",TV1 HD
 udp://@239.255.15.116:1234
-#EXTINF:-1 tvg-id="lrt" tvg-logo="" group-title="Channels",LRT Televizija
+#EXTINF:-1 tvg-logo="" group-title="Channels",LRT Televizija
 udp://@239.255.15.66:1234
-#EXTINF:-1 tvg-id="go3_films" tvg-logo="" group-title="Channels",Go3 films 
+#EXTINF:-1 tvg-logo="" group-title="Channels",Go3 films 
 udp://@239.255.15.120:1234
-#EXTINF:-1 tvg-id="go3_sport_1" tvg-logo="" group-title="Channels",Go3 sport 1
+#EXTINF:-1 tvg-logo="" group-title="Channels",Go3 sport 1
 udp://@239.255.15.127:1234
-#EXTINF:-1 tvg-id="go3_sport_2" tvg-logo="" group-title="Channels",Go3 sport 2 
+#EXTINF:-1 tvg-logo="" group-title="Channels",Go3 sport 2 
 udp://@239.255.15.128:1234
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Channels",3Plus LT HD
 udp://@239.255.15.153:1234
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Channels",Balticum TV HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",Balticum TV HD
 udp://@239.255.15.5:1234
-#EXTINF:-1 tvg-id="balt-auks" tvg-logo="" group-title="Channels",Balticum Auksinis
+#EXTINF:-1 tvg-logo="" group-title="Channels",Balticum Auksinis
 udp://@239.255.15.4:1234
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Channels",PlatinumHD
+#EXTINF:-1 tvg-logo="" group-title="Channels",PlatinumHD
 udp://@239.255.15.110:1234
-#EXTINF:-1 tvg-id="mgm-int" group-title="Channels",AMC
+#EXTINF:-1 tvg-logo="" group-title="Channels",AMC
 udp://@239.255.15.1:1234
-#EXTINF:-1 tvg-id="AnimalPlanet.blt" group-title="Channels",Animal Planet
+#EXTINF:-1 tvg-logo="" group-title="Channels",Animal Planet
 udp://@239.255.15.2:1234
-#EXTINF:-1 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",Animal Planet HD
 udp://@239.255.15.3:1234
-#EXTINF:-1 tvg-id="ext" group-title="Channels",Kvartal TV
+#EXTINF:-1 tvg-logo="" group-title="Channels",Kvartal TV
 udp://@239.255.15.6:1234
-#EXTINF:-1 tvg-id="bloomberg" group-title="Channels",Bloomberg Europe
+#EXTINF:-1 tvg-logo="" group-title="Channels",Bloomberg Europe
 udp://@239.255.15.7:1234
-#EXTINF:-1 tvg-id="Cartoonito.it" group-title="Channels",Cartoonito HD
+#EXTINF:-1 tvg-logo="" group-title="Channels",Cartoonito HD
 udp://@239.255.15.10:1234
-#EXTINF:-1 tvg-id="setanta-sport-plus" group-title="Channels",Setanta Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Channels",Setanta Sports 2
 udp://@239.255.15.12:1234
-#EXTINF:-1 tvg-id="CartoonNetwork.blt" group-title="Channels",Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="Channels",Cartoon Network
 udp://@239.255.15.13:1234
-#EXTINF:-1 tvg-id="cnn" group-title="Channels",CNN International
+#EXTINF:-1 tvg-logo="" tvg-id="cnn" group-title="Channels",CNN International
 udp://@239.255.15.14:1234
-#EXTINF:-1 tvg-id="ext" group-title="Channels",DaVinci Learning HD
+#EXTINF:-1 tvg-logo="" tvg-id="ext" group-title="Channels",DaVinci Learning HD
 udp://@239.255.15.15:1234
 #EXTINF:-1 tvg-id="det" group-title="Channels",Detskij Mir
 udp://@239.255.15.16:1234
