@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="lrt_televizija" tvg-logo="" group-title="Channels",LRT HD
+#EXTINF:-1 tvg-id="LRTTV.lt" tvg-logo="" group-title="Channels",LRT TV
 udp://@239.255.15.64:1234
-#EXTINF:-1 tvg-id="lnk" tvg-logo="" group-title="Channels",lnk
+#EXTINF:-1 tvg-id="LNK.lt" tvg-logo="" group-title="Channels",lnk
 udp://@239.255.15.63:1234
 #EXTINF:-1 tvg-id="tv3" tvg-logo="" group-title="Channels",tv3Lithuania.lt
 udp://@239.255.15.122:1234
