@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/lrt_hd.png" group-title="Channels",LRT TV
 udp://@239.255.15.64:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lietuviska%20TV/lnk_hd.png" group-title="Channels",LNK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/lnk_hd.png" group-title="Channels",LNK
 udp://@239.255.15.63:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lietuviska%20TV/tv3_hd.png" group-title="Channels",TV3
 udp://@239.255.15.122:1234
