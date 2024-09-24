@@ -5,7 +5,7 @@ udp://@239.255.15.64:1234
 udp://@239.255.15.63:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/tv3_hd.png" group-title="Channels",TV3
 udp://@239.255.15.122:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/btv_hd.png" group-title="Channels",  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/btv_hd.png" group-title="Channels",BTV  
 udp://@239.255.15.11:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/lrytashd.png" group-title="Channels",Lietuvos Rytas 
 udp://@239.255.15.67:1234
