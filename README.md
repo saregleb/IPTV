@@ -5,9 +5,9 @@ IPTV su EPG gidu.
 ## Kaip pradėti naudotis?
 Playlist failas:SareGleb_TV https://raw.githubusercontent.com/saregleb/IPTV/master/SareGleb_TV
 
-EPG gidas: epg.xml 
+EPG gidas: epg.xml http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Lithuania/tv24.lt.channels.xml
 
-Suspaustas EPG gidas: epg.xml.gz 
+Suspaustas EPG gidas: epg.xml http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Lithuania/tv24.lt.channels.xml.gz 
 
 Tiesiog nukopijuokite playlist'o bei EPG gido nuorodas ir įdėkite į savo IPTV įrenginį (Smart TV, TV box ar kompiuterį). Atsiradus naujiems pakeitimams kanalų sąraše ar EPG jie automatiškai atsiras ir jūsų IPTV įrenginyje.
 
