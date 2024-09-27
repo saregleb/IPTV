@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lrt_televizija.png" group-title="Channels",LRT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lrt_tv.png" group-title="Channels",LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lnk.png" group-title="Channels",LNK
 udp://@239.255.15.63:1234
