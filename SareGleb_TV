@@ -9,9 +9,9 @@ udp://@239.255.15.122:1234
 udp://@239.255.15.11:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/lrytashd.png" group-title="Channels",Lietuvos Rytas 
 udp://@239.255.15.67:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/tv6_hd.png" group-title="Channels",TV6 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/tv6.png" group-title="Channels",TV6 
 udp://@239.255.15.112:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/info_tv_hd.png" group-title="Channels",Info TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/info_tv.png" group-title="Channels",Info TV 
 udp://@239.255.15.52:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/tv8.png" group-title="Channels",TV8 
 udp://@239.255.15.113:1234
@@ -23,7 +23,7 @@ udp://@239.255.15.48:1234
 udp://@239.255.15.65:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/tv1_hd.png" group-title="Channels",TV1 
 udp://@239.255.15.116:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lietuviska%20TV/lrt_televizija.png" group-title="Channels",LRT Televizija
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lrt-tv.png" group-title="Channels",LRT Televizija
 udp://@239.255.15.66:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/plius_tv.png/Go3-films-hd.png" group-title="Channels",Go3 films 
 udp://@239.255.15.120:1234
