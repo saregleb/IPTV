@@ -19,7 +19,7 @@ udp://@239.255.15.113:1234
 udp://@239.255.15.62:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/delfi-tv.png" group-title="Channels",DELFI TV
 udp://@239.255.15.48:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lrt-plius.png" group-title="Channels",LRT Plius 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lrt-plius-lt.png" group-title="Channels",LRT Plius 
 udp://@239.255.15.65:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/tv1.png" group-title="Channels",TV1 
 udp://@239.255.15.116:1234
