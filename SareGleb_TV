@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Lithuania/tv24.lt.channels.xml" 
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lrt-tv.png" group-title="Channels",LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/logo/lnk.png" group-title="Channels",LNK
@@ -231,6 +231,7 @@ udp://@239.255.15.150:1234
 udp://@239.255.15.151:1234
 #EXTINF:-1 tvg-id="ext" group-title="Channels",OTV HD
 udp://@239.255.15.152:1234
+
 
 
 
