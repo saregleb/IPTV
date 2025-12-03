@@ -3,7 +3,7 @@ IPTV su EPG gidu.
 
 
 ## Kaip pradėti naudotis?
-Playlist failas:SareGleb_TV https://raw.githubusercontent.com/saregleb/IPTV/master/SareGleb_TV
+Playlist failas:SareGleb_TV https://raw.githubusercontent.com/saregleb/IPTV/master/Saregleb_TV
 
 EPG gidas: epg.xml http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Lithuania/tv24.lt.channels.xml
 
@@ -16,5 +16,6 @@ Tiesiog nukopijuokite playlist'o bei EPG gido nuorodas ir įdėkite į savo IPTV
 Elektroninis programų gidas (EPG) tai programa TV kanalams.
 
 EPG yra generuojamas 3 dienoms į priekį, kas `12` valandų.
+
 
 
