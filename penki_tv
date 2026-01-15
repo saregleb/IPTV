@@ -231,12 +231,16 @@ udp://@239.255.15.150:1234
 udp://@239.255.15.151:1234
 #EXTINF:-1 tvg-id="ext" group-title="Channels",OTV HD
 udp://@239.255.15.152:1234
-
-
-
-
-
-
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные",Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР 24 FHD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 
 
