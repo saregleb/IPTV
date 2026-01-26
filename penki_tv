@@ -1,11 +1,11 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="lrt"group-title="Channels",LRT HD
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",LRT HD
 udp://@239.255.15.64:1234
-#EXTINF:-1 tvg-logo="lnk-lt"group-title="Channels",LNK
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",LNK
 udp://@239.255.15.63:1234
-#EXTINF:-1 tvg-logo="" group-title="Channels",TV3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",TV3
 udp://@239.255.15.122:1234
-#EXTINF:-1 tvg-logo="" group-title="Channels",BTV  
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",BTV  
 udp://@239.255.15.11:1234
 #EXTINF:-1 tvg-logo="" group-title="Channels",Lietuvos Rytas 
 udp://@239.255.15.67:1234
@@ -245,6 +245,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
