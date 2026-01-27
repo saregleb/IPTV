@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",LRT HD
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=${offset}"group-title="Channels",LRT 
 udp://@239.255.15.64:1234
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",LNK
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=${offset}"group-title="Channels",LNK
 udp://@239.255.15.63:1234
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",TV3
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=${offset}"group-title="Channels",TV3
 udp://@239.255.15.122:1234
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",BTV  
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=${offset}"group-title="Channels",BTV  
 udp://@239.255.15.11:1234
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Channels",Lietuvos Rytas 
 udp://@239.255.15.67:1234
@@ -17,7 +17,7 @@ udp://@239.255.15.52:1234
 udp://@239.255.15.113:1234
 #EXTINF:-1 tvg-logo="" group-title="Channels",Liuks!
 udp://@239.255.15.62:1234
-#EXTINF:-1 tvg-logo="" group-title="Channels",DELFI TV
+#EXTINF:-1 tvg-logo="DelfiTV.lt" group-title="Channels",DELFI TV
 udp://@239.255.15.48:1234
 #EXTINF:-1 tvg-logo="" group-title="Channels",LRT Plius 
 udp://@239.255.15.65:1234
@@ -245,6 +245,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
