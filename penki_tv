@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.tvfor.pro/epgtv.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"group-title="Channels",LNK
@@ -245,6 +245,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
