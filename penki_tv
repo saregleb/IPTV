@@ -251,11 +251,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="2378" tvg-name="Россия 1 HD" tvg-logo="https://tvfor.pro/images/channels/rossiya_.png" group-title="Базовые" https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8 catchup-days="5" timeshift="5",Россия 1 HD
 #EXTGRP:Базовые
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8#catchup=default&catchup-days=5
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="2378" tvg-name="Россия 1 HD" tvg-logo="https://tvfor.pro/images/channels/rossiya_.png" group-title="Базовые" http://vandijk.tvfor.pro/RossiyaHD/ds4LYzifZMavaFPBTQjGEs5H/.ts catchup-days="5" timeshift="5",Россия 1 HD
 #EXTGRP:Базовые
 http://vandijk.tvfor.pro/RossiyaHD/ds4LYzifZMavaFPBTQjGEs5H/.ts
+
 
 
 
