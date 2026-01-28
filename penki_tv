@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Lithuania/lithuania1.xml"
-#EXTINF:-1 id="LRT Televizija.lt"><display-name>LRT Televizija.lt</display-name></channel>,LRT HD
+#EXTM3U 
+#EXTINF:-1 id=""><display-name>LRT Televizija.lt</display-name></channel>,LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:-1 ,LNK
 udp://@239.255.15.63:1234
@@ -260,6 +260,7 @@ http://vandijk.tvfor.pro/RossiyaHD/ds4LYzifZMavaFPBTQjGEs5H/.ts#catchup=default&
 #EXTINF:-1 tvg-id="2368" tvg-name="НТВ HD" tvg-logo="https://tvfor.pro/images/channels/ntv_ru.png" group-title="Базовые" catchup="default" catchup-source="https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8?utc=${start}" catchup-days="5" timeshift="5",НТВ HD
 #EXTGRP:Базовые
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8#catchup=default&catchup-days=5
+
 
 
 
