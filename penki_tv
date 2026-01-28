@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Lithuania/lithuania1.xml"
-#EXTINF:-1 ,LRT HD
+#EXTINF:-1 id="LRT Televizija.lt"><display-name>LRT Televizija.lt</display-name></channel>,LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:-1 ,LNK
 udp://@239.255.15.63:1234
@@ -245,6 +245,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
