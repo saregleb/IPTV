@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Lithuania/tv24.lt.channels.xml"
 #EXTINF:0 tvg-id="lrt" group-title="Channels",LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:0 tvg-id="lnk-lt" group-title="Channels",LNK
@@ -254,5 +254,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8#catchup=defaul
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Базовые",Россия 1 HD
 http://vandijk.tvfor.pro/RossiyaHD/ds4LYzifZMavaFPBTQjGEs5H/.ts#catchup=default&catchup-days=5
 #EXTINF:0 tvg-id="ntv" group-title="Базовые" timeshift="5",НТВ HD
+
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8#catchup=default&catchup-days=5
 
