@@ -15,7 +15,7 @@ udp://@239.255.15.112:1234
 udp://@239.255.15.52:1234
 #EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
 udp://@239.255.15.113:1234
-#EXTINF:0 tvg-id="liuks" group-title="Channels",Liuks!
+#EXTINF:0 tvg-id="2TV" group-title="Channels",2TV
 udp://@239.255.15.62:1234
 #EXTINF:0 tvg-id="DelfiTV.lt" group-title="Channels",DELFI TV
 udp://@239.255.15.48:1234
@@ -647,6 +647,7 @@ http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский Экстрим
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?
 token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk4NDU5NDEsImlhdCI6MTc2OTc1OTU0MSwiY2lkIjo2LCJ1aWQiOjk5Njc1OTE3MCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.bukLMKAXKvHO73QH1w7G6TmNmBBOic8oN15ePdLedwg&offset=10
+
 
 
 
