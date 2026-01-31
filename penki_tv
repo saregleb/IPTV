@@ -250,8 +250,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Базовые",Россия 1 HD
 http://vandijk.tvfor.pro/RossiyaHD/ds4LYzifZMavaFPBTQjGEs5H/.ts
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:31.01.2026
-http://194.26.229.213/zastavka/index.m3u8
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Первый канал HD +4
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?
 token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk4NDU5NDEsImlhdCI6MTc2OTc1OTU0MSwiY2lkIjo2LCJ1aWQiOjk5Njc1OTE3MCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.bukLMKAXKvHO73QH1w7G6TmNmBBOic8oN15ePdLedwg&offset=10
@@ -666,6 +665,7 @@ http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский Экстрим
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?
 token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk4NDU5NDEsImlhdCI6MTc2OTc1OTU0MSwiY2lkIjo2LCJ1aWQiOjk5Njc1OTE3MCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.bukLMKAXKvHO73QH1w7G6TmNmBBOic8oN15ePdLedwg&offset=10
+
 
 
 
