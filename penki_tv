@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_lite.xml.gz
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_lite.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 #EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="default" catchup-source="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lithuania/lrt.lt.ini?utc=${start}" catchup-days="5" timeshift="5,LRT HD
 udp://@239.255.15.64:1234
@@ -666,6 +666,7 @@ http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Русский Экстрим
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?
 token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk4NDU5NDEsImlhdCI6MTc2OTc1OTU0MSwiY2lkIjo2LCJ1aWQiOjk5Njc1OTE3MCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.bukLMKAXKvHO73QH1w7G6TmNmBBOic8oN15ePdLedwg&offset=10
+
 
 
 
