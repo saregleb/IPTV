@@ -233,6 +233,9 @@ udp://@239.255.15.151:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",OTV HD
 udp://@239.255.15.152:1234
 
+#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=olOuwH_qsfGsBm4aHjEing&e=2069976537&scheme=https
 #EXTINF:0 tvg-id="ort-hd" group-title="Федеральные",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
@@ -247,6 +250,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
