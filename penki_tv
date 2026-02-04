@@ -32,7 +32,7 @@ udp://@239.255.15.120:1234
 udp://@239.255.15.127:1234
 #EXTINF:0 tvg-id="TVPlaySportsPlus.lt" group-title="Channels",Go3 sport 2
 udp://@239.255.15.128:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",3Plus LT
+#EXTINF:0 tvg-id="ext" group-title="Channels",3Plus LT HD
 udp://@239.255.15.153:1234
 #EXTINF:0 tvg-id="balt-tv" group-title="Channels",Balticum TV
 udp://@239.255.15.5:1234
@@ -250,6 +250,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
