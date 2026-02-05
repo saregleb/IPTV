@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epg.tvfor.pro/epgtv.xml.gz"
 
-#EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="default" catchup-source="?utc=${start}" catchup-days="3" timeshift="3",LRT HD
+#EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="default" catchup-source="udp://@239.255.15.64:1234?utc=${start}" catchup-days="3" timeshift="3",LRT HD
 udp://@239.255.15.64:1234
-#EXTINF:0 tvg-id="lnk-lt" group-title="Channels" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",LNK
+#EXTINF:0 tvg-id="lnk-lt" group-title="Channels" catchup="append" catchup-days="3" catchup-source="udp://@239.255.15.63:1234?offset=-${offset}&utcstart=${timestamp}",LNK
 udp://@239.255.15.63:1234
-#EXTINF:0 tvg-id="tv3-lt" group-title="Channels" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TV3
+#EXTINF:0 tvg-id="tv3-lt" group-title="Channels" catchup="append" catchup-days="3" catchup-source="udp://@239.255.15.122:1234?offset=-${offset}&utcstart=${timestamp}",TV3
 udp://@239.255.15.122:1234
 #EXTINF:0 tvg-id="baltijos-lt" group-title="Channels" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",BTV
 udp://@239.255.15.11:1234
@@ -250,6 +250,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
