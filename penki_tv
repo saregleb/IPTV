@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lithuania/lrt.lt.channels.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lithuania/lrt.lt.ini"
 
 #EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="default" catchup-source="udp://@239.255.15.64:1234?utc=${start}" catchup-days="5" timeshift="5",LRT HD
 udp://@239.255.15.64:1234
@@ -250,6 +250,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 
 
 
