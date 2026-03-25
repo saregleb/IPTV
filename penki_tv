@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/lithuania2.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml"
 
 #EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="default" catchup-source="udp://@239.255.15.64:1234?utc=${start}" catchup-days="7" timeshift="3",LRT HD
 udp://@239.255.15.64:1234
