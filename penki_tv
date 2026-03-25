@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
 
 #EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="default" catchup-source="udp://@239.255.15.64:1234?utc=${start}" catchup-days="7" timeshift="3",LRT HD
 udp://@239.255.15.64:1234
