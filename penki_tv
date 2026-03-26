@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/saregleb/IPTV/blob/master/epg-lt.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-lt.xml.gz"
 
 #EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",LRT HD
 udp://@239.255.15.64:1234
