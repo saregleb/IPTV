@@ -8,9 +8,9 @@ udp://@239.255.15.63:1234
 udp://@239.255.15.122:1234
 #EXTINF:0 tvg-id="baltijos-lt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",BTV
 udp://@239.255.15.11:1234
-#EXTINF:0 tvg-id="rytas-lt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Lietuvos Rytas
+#EXTINF:0 tvg-id="lietuvos-ryto-televizija" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Lietuvos Rytas
 udp://@239.255.15.67:1234
-#EXTINF:0 tvg-id="tv6-lat" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TV6
+#EXTINF:0 tvg-id="tv6-lt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TV6
 udp://@239.255.15.112:1234
 #EXTINF:0 tvg-id="info-tv" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Info TV
 udp://@239.255.15.52:1234
