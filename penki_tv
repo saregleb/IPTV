@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/saregleb/IPTV/refs/heads/master/Lithuania_lrt.lt/lrt.lt.channels.xml"
+#EXTM3U 
 
 #EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",LRT HD
 udp://@239.255.15.64:1234
