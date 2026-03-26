@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-id="lrt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",LRT HD
+#EXTINF:0 tvg-id="lrt-tv" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",LRT HD
 udp://@239.255.15.64:1234
 #EXTINF:0 tvg-id="lnk-lt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",LNK
 udp://@239.255.15.63:1234
