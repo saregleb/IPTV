@@ -18,7 +18,7 @@ udp://@239.255.15.52:1234
 udp://@239.255.15.113:1234
 #EXTINF:0 tvg-id="2TV" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2TV
 udp://@239.255.15.62:1234
-#EXTINF:0 tvg-id="DelfiTV.lt" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",DELFI TV
+#EXTINF:0 tvg-id="delfi-tv" group-title="Channels" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",DELFI TV
 udp://@239.255.15.48:1234
 #EXTINF:0 tvg-id="lrtkult" group-title="Channels",LRT Plius
 udp://@239.255.15.65:1234
