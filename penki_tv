@@ -233,23 +233,142 @@ udp://@239.255.15.151:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",OTV HD
 udp://@239.255.15.152:1234
 
-#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=olOuwH_qsfGsBm4aHjEing&e=2069976537&scheme=https
-#EXTINF:0 tvg-id="ort-hd" group-title="Федеральные",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Федеральные",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:0 tvg-id="mir24" group-title="Федеральные",МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 tvg-id="mir" group-title="Федеральные",МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0 tvg-id="rossiya-hd" group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF: Channel 1
+udp://@239.255.14.1:1234
+#EXTINF: Animal Planet HD
+udp://@239.255.14.3:1234
+#EXTINF: Channel 3
+udp://@239.255.14.4:1234
+#EXTINF: Balticum TV
+udp://@239.255.14.5:1234
+#EXTINF: TV6 HD
+udp://@239.255.14.11:1234
+#EXTINF: CNN
+udp://@239.255.14.14:1234
+#EXTINF: Channel 7
+udp://@239.255.14.15:1234
+#EXTINF: LRT Plius HD
+udp://@239.255.14.16:1234
+#EXTINF: Setanta Sports HD
+udp://@239.255.14.19:1234
+#EXTINF: Channel 10
+udp://@239.255.14.20:1234
+#EXTINF: Disney Junior
+udp://@239.255.14.24:1234
+#EXTINF: DW HD
+udp://@239.255.14.30:1234
+#EXTINF: English Club HD
+udp://@239.255.14.31:1234
+#EXTINF: Channel 14
+udp://@239.255.14.32:1234
+#EXTINF: Channel 15
+udp://@239.255.14.33:1234
+#EXTINF: Eurosport 2 HD
+udp://@239.255.14.36:1234
+#EXTINF: Channel 17
+udp://@239.255.14.37:1234
+#EXTINF: Channel 18
+udp://@239.255.14.41:1234
+#EXTINF: Channel 19
+udp://@239.255.14.43:1234
+#EXTINF: Channel 20
+udp://@239.255.14.45:1234
+#EXTINF: Delfi TV
+udp://@239.255.14.48:1234
+#EXTINF: Channel 22
+udp://@239.255.14.49:1234
+#EXTINF: Channel 23
+udp://@239.255.14.52:1234
+#EXTINF: Channel 24
+udp://@239.255.14.54:1234
+#EXTINF: Channel 25
+udp://@239.255.14.55:1234
+#EXTINF: TV3 HD
+udp://@239.255.14.57:1234
+#EXTINF: 2TV
+udp://@239.255.14.62:1234
+#EXTINF: LNK HD
+udp://@239.255.14.63:1234
+#EXTINF: Channel 29
+udp://@239.255.14.64:1234
+#EXTINF: LRT Plius HD
+udp://@239.255.14.65:1234
+#EXTINF: Lietuvos Rytas HD
+udp://@239.255.14.67:1234
+#EXTINF: Channel 32
+udp://@239.255.14.69:1234
+#EXTINF: MEZZO HD
+udp://@239.255.14.70:1234
+#EXTINF: Channel 34
+udp://@239.255.14.74:1234
+#EXTINF: Na?se liubimoe kino
+udp://@239.255.14.77:1234
+#EXTINF: Channel 36
+udp://@239.255.14.80:1234
+#EXTINF: Channel 37
+udp://@239.255.14.84:1234
+#EXTINF: Da?ca HD
+udp://@239.255.14.85:1234
+#EXTINF: Channel 39
+udp://@239.255.14.86:1234
+#EXTINF: Channel 40
+udp://@239.255.14.87:1234
+#EXTINF: Belsat
+udp://@239.255.14.88:1234
+#EXTINF: Pingviniukas
+udp://@239.255.14.90:1234
+#EXTINF: Channel 43
+udp://@239.255.14.99:1234
+#EXTINF: SAT 1
+udp://@239.255.14.101:1234
+#EXTINF: Channel 45
+udp://@239.255.14.102:1234
+#EXTINF: Sport1 HD
+udp://@239.255.14.107:1234
+#EXTINF: Balticum Platinum
+udp://@239.255.14.110:1234
+#EXTINF: Channel 48
+udp://@239.255.14.112:1234
+#EXTINF: TV8 Lietuva HD
+udp://@239.255.14.113:1234
+#EXTINF: TV1 HD
+udp://@239.255.14.116:1234
+#EXTINF: Channel 51
+udp://@239.255.14.117:1234
+#EXTINF: Channel 52
+udp://@239.255.14.118:1234
+#EXTINF: Channel 53
+udp://@239.255.14.120:1234
+#EXTINF: Viasat Kino World
+udp://@239.255.14.121:1234
+#EXTINF: Channel 55
+udp://@239.255.14.122:1234
+#EXTINF: Channel 56
+udp://@239.255.14.124:1234
+#EXTINF: TVP Info HD
+udp://@239.255.14.125:1234
+#EXTINF: Go3 Sport 2 HD
+udp://@239.255.14.127:1234
+#EXTINF: Go3 Sport 2 HD
+udp://@239.255.14.128:1234
+#EXTINF: Viasat History HD
+udp://@239.255.14.131:1234
+#EXTINF: Channel 61
+udp://@239.255.14.132:1234
+#EXTINF: Д§џаш§џй
+udp://@239.255.14.133:1234
+#EXTINF: ?Zvaig?zd?e
+udp://@239.255.14.135:1234
+#EXTINF: TVP Wilno HD
+udp://@239.255.14.142:1234
+#EXTINF: Fast&Fun Box HD
+udp://@239.255.14.143:1234
+#EXTINF: FightBox HD
+udp://@239.255.14.144:1234
+#EXTINF: DocuBox HD
+udp://@239.255.14.145:1234
+#EXTINF: Channel 68
+udp://@239.255.14.146:1234
 
 
 
