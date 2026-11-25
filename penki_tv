@@ -233,141 +233,141 @@ udp://@239.255.15.151:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",OTV HD
 udp://@239.255.15.152:1234
 
-#EXTINF: Channel 1
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 1
 udp://@239.255.14.1:1234
-#EXTINF: Animal Planet HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", Animal Planet HD
 udp://@239.255.14.3:1234
-#EXTINF: Channel 3
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 3
 udp://@239.255.14.4:1234
-#EXTINF: Balticum TV
+#EXTINF:0 tvg-id="ext" group-title="Channels", Balticum TV
 udp://@239.255.14.5:1234
-#EXTINF: TV6 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", TV6 HD
 udp://@239.255.14.11:1234
-#EXTINF: CNN
+#EXTINF:0 tvg-id="ext" group-title="Channels", CNN
 udp://@239.255.14.14:1234
-#EXTINF: Channel 7
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 7
 udp://@239.255.14.15:1234
-#EXTINF: LRT Plius HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", LRT Plius HD
 udp://@239.255.14.16:1234
-#EXTINF: Setanta Sports HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", Setanta Sports HD
 udp://@239.255.14.19:1234
-#EXTINF: Channel 10
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 10
 udp://@239.255.14.20:1234
-#EXTINF: Disney Junior
+#EXTINF:0 tvg-id="ext" group-title="Channels", Disney Junior
 udp://@239.255.14.24:1234
-#EXTINF: DW HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", DW HD
 udp://@239.255.14.30:1234
-#EXTINF: English Club HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", English Club HD
 udp://@239.255.14.31:1234
-#EXTINF: Channel 14
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 14
 udp://@239.255.14.32:1234
-#EXTINF: Channel 15
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 15
 udp://@239.255.14.33:1234
-#EXTINF: Eurosport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", Eurosport 2 HD
 udp://@239.255.14.36:1234
-#EXTINF: Channel 17
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 17
 udp://@239.255.14.37:1234
-#EXTINF: Channel 18
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 18
 udp://@239.255.14.41:1234
-#EXTINF: Channel 19
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 19
 udp://@239.255.14.43:1234
-#EXTINF: Channel 20
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 20
 udp://@239.255.14.45:1234
-#EXTINF: Delfi TV
+#EXTINF:0 tvg-id="ext" group-title="Channels", Delfi TV
 udp://@239.255.14.48:1234
-#EXTINF: Channel 22
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 22
 udp://@239.255.14.49:1234
-#EXTINF: Channel 23
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 23
 udp://@239.255.14.52:1234
-#EXTINF: Channel 24
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 24
 udp://@239.255.14.54:1234
-#EXTINF: Channel 25
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 25
 udp://@239.255.14.55:1234
-#EXTINF: TV3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", TV3 HD
 udp://@239.255.14.57:1234
-#EXTINF: 2TV
+#EXTINF:0 tvg-id="ext" group-title="Channels", 2TV
 udp://@239.255.14.62:1234
-#EXTINF: LNK HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", LNK HD
 udp://@239.255.14.63:1234
-#EXTINF: Channel 29
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 29
 udp://@239.255.14.64:1234
-#EXTINF: LRT Plius HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", LRT Plius HD
 udp://@239.255.14.65:1234
-#EXTINF: Lietuvos Rytas HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", Lietuvos Rytas HD
 udp://@239.255.14.67:1234
-#EXTINF: Channel 32
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 32
 udp://@239.255.14.69:1234
-#EXTINF: MEZZO HD
+#EXTINF:0 tvg-id="ext" group-title="Channels", MEZZO HD
 udp://@239.255.14.70:1234
-#EXTINF: Channel 34
+#EXTINF:0 tvg-id="ext" group-title="Channels", Channel 34
 udp://@239.255.14.74:1234
-#EXTINF: Na?se liubimoe kino
+#EXTINF:0 tvg-id="ext" group-title="Channels", Na?se liubimoe kino
 udp://@239.255.14.77:1234
-#EXTINF: Channel 36
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 36
 udp://@239.255.14.80:1234
-#EXTINF: Channel 37
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 37
 udp://@239.255.14.84:1234
-#EXTINF: Da?ca HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Da?ca HD
 udp://@239.255.14.85:1234
-#EXTINF: Channel 39
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 39
 udp://@239.255.14.86:1234
-#EXTINF: Channel 40
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 40
 udp://@239.255.14.87:1234
-#EXTINF: Belsat
+#EXTINF: 0 tvg-id="ext" group-title="239.255.14",Belsat
 udp://@239.255.14.88:1234
-#EXTINF: Pingviniukas
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Pingviniukas
 udp://@239.255.14.90:1234
-#EXTINF: Channel 43
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 43
 udp://@239.255.14.99:1234
-#EXTINF: SAT 1
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", SAT 1
 udp://@239.255.14.101:1234
-#EXTINF: Channel 45
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 45
 udp://@239.255.14.102:1234
-#EXTINF: Sport1 HD
+#EXTINF: 0 tvg-id="ext" group-title="239.255.14",Sport1 HD
 udp://@239.255.14.107:1234
-#EXTINF: Balticum Platinum
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Balticum Platinum
 udp://@239.255.14.110:1234
-#EXTINF: Channel 48
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 48
 udp://@239.255.14.112:1234
-#EXTINF: TV8 Lietuva HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", TV8 Lietuva HD
 udp://@239.255.14.113:1234
-#EXTINF: TV1 HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", TV1 HD
 udp://@239.255.14.116:1234
-#EXTINF: Channel 51
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 51
 udp://@239.255.14.117:1234
-#EXTINF: Channel 52
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 52
 udp://@239.255.14.118:1234
-#EXTINF: Channel 53
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 53
 udp://@239.255.14.120:1234
-#EXTINF: Viasat Kino World
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Viasat Kino World
 udp://@239.255.14.121:1234
-#EXTINF: Channel 55
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 55
 udp://@239.255.14.122:1234
-#EXTINF: Channel 56
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 56
 udp://@239.255.14.124:1234
-#EXTINF: TVP Info HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", TVP Info HD
 udp://@239.255.14.125:1234
-#EXTINF: Go3 Sport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Go3 Sport 2 HD
 udp://@239.255.14.127:1234
-#EXTINF: Go3 Sport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Go3 Sport 2 HD
 udp://@239.255.14.128:1234
-#EXTINF: Viasat History HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Viasat History HD
 udp://@239.255.14.131:1234
-#EXTINF: Channel 61
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 61
 udp://@239.255.14.132:1234
-#EXTINF: Д§џаш§џй
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Д§џаш§џй
 udp://@239.255.14.133:1234
-#EXTINF: ?Zvaig?zd?e
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", ?Zvaig?zd?e
 udp://@239.255.14.135:1234
-#EXTINF: TVP Wilno HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", TVP Wilno HD
 udp://@239.255.14.142:1234
-#EXTINF: Fast&Fun Box HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Fast&Fun Box HD
 udp://@239.255.14.143:1234
-#EXTINF: FightBox HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", FightBox HD
 udp://@239.255.14.144:1234
-#EXTINF: DocuBox HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", DocuBox HD
 udp://@239.255.14.145:1234
-#EXTINF: Channel 68
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Channel 68
 udp://@239.255.14.146:1234
 
 
