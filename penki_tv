@@ -347,7 +347,7 @@ udp://@239.255.14.122:1234
 udp://@239.255.14.124:1234
 #EXTINF:0 tvg-id="ext" group-title="239.255.14", TVP Info HD
 udp://@239.255.14.125:1234
-#EXTINF:0 tvg-id="ext" group-title="239.255.14", Go3 Sport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="239.255.14", Go3 Sport 1 HD
 udp://@239.255.14.127:1234
 #EXTINF:0 tvg-id="ext" group-title="239.255.14", Go3 Sport 2 HD
 udp://@239.255.14.128:1234
